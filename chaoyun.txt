@@ -1,3 +1,4 @@
+港台
 TVB J2,http://alpull.inke.cn/live/1518925619344975.m3u8
 TVB翡翠台,http://acm.gg/jade.m3u8
 TVB娱乐新闻台,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
