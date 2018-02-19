@@ -1,0 +1,10 @@
+﻿港台
+TVB J2,https://coding.net/u/kai258/p/tv/git/raw/master/J2-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/J2-2.m3u8
+TVB翡翠台,https://coding.net/u/kai258/p/tv/git/raw/master/Jade-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/Jade-2.m3u8
+TVB娱乐新闻台,https://coding.net/u/kai258/p/tv/git/raw/master/enews.m3u8
+港台電視 31,https://coding.net/u/kai258/p/tv/git/raw/master/rthk31-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/rthk31-2.m3u8
+香港卫视(HKSTV),https://coding.net/u/kai258/p/tv/git/raw/master/hkstv-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/hkstv-2.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/hkstv-3.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/hkstv-4.m3u8
+香港电视(HKTV),https://coding.net/u/kai258/p/tv/git/raw/master/hktv-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/hktv-2.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/hktv-3.m3u8
+亚太第一卫视,https://coding.net/u/kai258/p/tv/git/raw/master/onetv-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/onetv-2.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/onetv-3.m3u8
+耀才财经,https://coding.net/u/kai258/p/tv/git/raw/master/bshdlive-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/bshdlive-2.m3u8
+壹电视新聞(NextTV),https://coding.net/u/kai258/p/tv/git/raw/master/eratv-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/eratv-2.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/eratv-3.m3u8
