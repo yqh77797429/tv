@@ -1,6 +1,5 @@
-﻿香港
-TVB翡翠台,http://acm.gg/jade.m3u8
 TVB J2,http://alpull.inke.cn/live/1518925619344975.m3u8
+TVB翡翠台,http://acm.gg/jade.m3u8
 TVB娱乐新闻台,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 港台電視 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 香港卫视(HKSTV),http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8#rtmp://live.hkstv.hk.lxdns.com/live/hks#http://tm.ws.live.cntv.cn/cache/84_/seg0/index.m3u8#http://fms.cntv.lxdns.com/live/flv/channel84.flv
@@ -15,6 +14,4 @@ HKC財經資訊台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetyp
 HKC球彩台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=index.m3u8
 HKC18台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-
-台湾
 壹电视新聞(NextTV),http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
