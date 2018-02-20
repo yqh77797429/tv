@@ -1,18 +1,12 @@
 ﻿潮云-港台
-TVB J2,https://coding.net/u/kai258/p/tv/git/raw/master/J2-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/J2-2.m3u8#http://acm.gg/j2.m3u8#http://stream-itv.myccdn.info/live/hd_j2.flv
-TVB翡翠台,https://coding.net/u/kai258/p/tv/git/raw/master/Jade.m3u8#http://acm.gg/jade.m3u8#http://stream-itv.myccdn.info/live/hd_jade.flv
-TVB明珠台,https://coding.net/u/kai258/p/tv/git/raw/master/Pearl.m3u8#http://acm.gg/pearl.m3u8#http://stream-itv.myccdn.info/live/hd_prarl.flv
-TVB無綫財經,https://coding.net/u/kai258/p/tv/git/raw/master/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-香港卫視,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8#rtmp://live.hkstv.hk.lxdns.com/live/hks#http://tm.ws.live.cntv.cn/cache/84_/seg0/index.m3u8#http://fms.cntv.lxdns.com/live/flv/channel84.flv
-香港電視,http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=a42bc0b5ac8dc21cb14f66924a25f468&uid=1&vid=1&mxres=1920&s=35556a8d92fa04b373ca45fa5f35c36a&cname=index2#http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=win8&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1312&net=wifi&udid=f4128ed9dbf7996480dc22165bf32082&ts=1482653858026&s=be7c078c776d45f5d47613c473ec5e70#http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=win8&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1312&net=wifi&udid=f4128ed9dbf7996480dc22165bf32082&ts=1482654272898&s=ad8ac8c3231fff71f65a4e6ad6d82984
-亞太第一衛視,http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8#rtmp://v1.one-tv.com/live/mpegts.stream#rtmp://v1.one-tv.com:1935/live/mpegts.stream
-耀才財經台,https://coding.net/u/kai258/p/tv/git/raw/master/bshdlive-pc.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/bshdlive-mobile.m3u8
-壹電視新聞,https://coding.net/u/kai258/p/tv/git/raw/master/eratv-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/eratv-2.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/eratv-3.m3u8
-TVB無綫新聞,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news#http://stream-itv.myccdn.info/live/tvbwxxw.flv
-TVB娛樂新聞tvmao-346,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-TVB8tvmao-335,https://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8#msc://CTVB8
-TVB星河台tvmao-336,tvbus://12YAZLWfsob12gN25dYM9bDLjK6uJH9x6xgDHtJsQY1RyMsQ4MR#msc://CXHMovie
+TVB J2,tvmao-338,https://coding.net/u/kai258/p/tv/git/raw/master/J2-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/J2-2.m3u8#http://acm.gg/j2.m3u8#http://token.tvb.com/stream/live/hls/mobilehd_j2.smil
+TVB翡翠台,tvmao-328,https://coding.net/u/kai258/p/tv/git/raw/master/Jade.m3u8#http://acm.gg/jade.m3u8#http://token.tvb.com/stream/live/hls/mobilehd_jade.smil
+TVB明珠台,tvmao-329,https://coding.net/u/kai258/p/tv/git/raw/master/Pearl.m3u8#http://acm.gg/pearl.m3u8
+TVB無綫財經,https://coding.net/u/kai258/p/tv/git/raw/master/Finance.m3u8
+TVB無綫新聞,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news
+TVB娛樂新聞,tvmao-346,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+TVB8,tvmao-335,https://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8#msc://CTVB8
+TVB星河台,tvmao-336,tvbus://12YAZLWfsob12gN25dYM9bDLjK6uJH9x6xgDHtJsQY1RyMsQ4MR#msc://CXHMovie
 TVB劇集台,msc://CPDram
 TVB粵語台,msc://CCMovie
 TVB新聞台,msc://CIN5
@@ -20,3 +14,9 @@ TVB功夫台,msc://CKF5
 TVB通識台,msc://CJunior
 TVB生活台,msc://CLife
 TVB翡翠國際,msc://CJHK5
+RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+香港卫視,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8#rtmp://live.hkstv.hk.lxdns.com/live/hks#http://tm.ws.live.cntv.cn/cache/84_/seg0/index.m3u8#http://fms.cntv.lxdns.com/live/flv/channel84.flv
+香港電視,http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=a42bc0b5ac8dc21cb14f66924a25f468&uid=1&vid=1&mxres=1920&s=35556a8d92fa04b373ca45fa5f35c36a&cname=index2#http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=win8&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1312&net=wifi&udid=f4128ed9dbf7996480dc22165bf32082&ts=1482653858026&s=be7c078c776d45f5d47613c473ec5e70#http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=win8&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1312&net=wifi&udid=f4128ed9dbf7996480dc22165bf32082&ts=1482654272898&s=ad8ac8c3231fff71f65a4e6ad6d82984
+亞太第一衛視,http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8#rtmp://v1.one-tv.com/live/mpegts.stream#rtmp://v1.one-tv.com:1935/live/mpegts.stream
+耀才財經台,https://coding.net/u/kai258/p/tv/git/raw/master/bshdlive-pc.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/bshdlive-mobile.m3u8
+壹電視新聞,https://coding.net/u/kai258/p/tv/git/raw/master/eratv-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/eratv-2.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/eratv-3.m3u8
