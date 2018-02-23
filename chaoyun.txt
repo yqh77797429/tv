@@ -1,5 +1,5 @@
 ﻿潮云-港台
-TVB J2,https://coding.net/u/kai258/p/tv/git/raw/master/J2-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/J2-2.m3u8#http://alhls.quanmin.tv/live/1518906922.m3u8#http://acm.gg/j2.m3u8
+TVB J2,https://coding.net/u/kai258/p/tv/git/raw/master/J2-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/J2-2.m3u8#http://alhls.quanmin.tv/live/1518906922.m3u8
 TVB翡翠台,https://coding.net/u/kai258/p/tv/git/raw/master/Jade.m3u8#http://acm.gg/jade.m3u8
 TVB明珠台,https://coding.net/u/kai258/p/tv/git/raw/master/Pearl.m3u8#http://acm.gg/pearl.m3u8
 TVB無綫財經,https://coding.net/u/kai258/p/tv/git/raw/master/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
