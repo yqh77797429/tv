@@ -11,7 +11,6 @@ TVB無綫新聞,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=new
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB8,https://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8#msc://CTVB8
 TVB星河臺,tvbus://12YAZLWfsob12gN25dYM9bDLjK6uJH9x6xgDHtJsQY1RyMsQ4MR#msc://CXHMovie
-TVB劇集臺,msc://CPDram
 TVB粵語臺,msc://CCMovie
 TVB新聞臺,msc://CIN5
 TVB功夫臺,msc://CKF5
