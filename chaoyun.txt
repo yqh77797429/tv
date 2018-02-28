@@ -3,10 +3,9 @@
 鳳凰資訊,http://live.fengshows.com/live/PIN_500k/index.m3u8#vjms://122.155.180.8:8500:3502/live/cid=401#vjms://125.227.160.91:8500:3502/live/cid=401
 鳳凰香港,http://live.fengshows.com/live/PHK_500k/index.m3u8
 TVB J2,https://coding.net/u/kai258/p/tv/git/raw/master/J2-1.m3u8#https://coding.net/u/kai258/p/tv/git/raw/master/J2-2.m3u8#http://stream-itv.myccdn.info/live/hd_j2.flv#vjms://122.155.180.8:8500:3502/live/cid=368#vjms://125.227.160.91:8500:3502/live/cid=368
-TVB J5,vjms://122.155.180.8:8500:3502/live/cid=363#vjms://125.227.160.91:8500:3502/live/cid=363
 TVB翡翠台,https://coding.net/u/kai258/p/tv/git/raw/master/Jade.m3u8#http://acm.gg/jade.m3u8#http://stream-itv.myccdn.info/live/hd_jade.flv#vjms://122.155.180.8:8500:3502/live/cid=362#vjms://125.227.160.91:8500:3502/live/cid=362
 TVB明珠台,https://coding.net/u/kai258/p/tv/git/raw/master/Pearl.m3u8#http://acm.gg/pearl.m3u8#http://stream-itv.myccdn.info/live/hd_prarl.flv#vjms://122.155.180.8:8500:3502/live/cid=367#vjms://125.227.160.91:8500:3502/live/cid=367
-TVB無綫財經,https://coding.net/u/kai258/p/tv/git/raw/master/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+TVB無綫財經,https://coding.net/u/kai258/p/tv/git/raw/master/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8#vjms://122.155.180.8:8500:3502/live/cid=363#vjms://125.227.160.91:8500:3502/live/cid=363
 TVB無綫新聞,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news#vjms://122.155.180.8:8500:3502/live/cid=366#vjms://125.227.160.91:8500:3502/live/cid=366
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB8,https://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8#msc://CTVB8
@@ -30,9 +29,6 @@ RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av
 東森電影,http://uri.52itv.cn/vlive/ltv/1X42YYN.m3u8#vjms://122.155.180.8:8500:3502/live/cid=338#vjms://125.227.160.91:8500:3502/live/cid=338
 東森洋片,http://uri.52itv.cn/vlive/ltv/SY1CB0I.m3u8#vjms://122.155.180.8:8500:3502/live/cid=343#vjms://125.227.160.91:8500:3502/live/cid=343
 龍祥電影,http://uri.52itv.cn/vlive/ltv/X2VZU6A.m3u8
-靖天電影,gtv://4gtv061
-數位電影,gtv://4gtv011
-日舞電影,gtv://4gtv017
 民視HD,http://uri.52itv.cn/vlive/ltv/TA44NR5.m3u8#tvbus://1kFEScAdCLrcgqFYTRBcK9arjVyX9F8f7NFUh9d2Fy2qfMAqgS#vjms://122.155.180.8:8500:3502/live/cid=450#vjms://125.227.160.91:8500:3502/live/cid=450
 台視HD,http://uri.52itv.cn/vlive/ltv/EB33BJ7.m3u8#tvbus://1f8KegFg52nupDXxSAjBmjVKsVC2bbDiJVXayJbW2CLfxXAxv4#vjms://122.155.180.8:8500:3502/live/cid=453#vjms://125.227.160.91:8500:3502/live/cid=453
 華視HD,http://uri.52itv.cn/vlive/ltv/1C10N91.m3u8#tvbus://12AugxB7h6ET1VnZzj9KFEt7GpHzV9FW6kaN5baGweLL4hmZw5#vjms://122.155.180.8:8500:3502/live/cid=451#vjms://125.227.160.91:8500:3502/live/cid=451
