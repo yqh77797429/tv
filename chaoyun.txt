@@ -2,7 +2,7 @@
 鳳凰中文,http://live.fengshows.com/live/PCC_500k/index.m3u8#vjms://122.155.180.8:8500:3502/live/cid=400#vjms://125.227.160.91:8500:3502/live/cid=400
 鳳凰資訊,http://live.fengshows.com/live/PIN_500k/index.m3u8#vjms://122.155.180.8:8500:3502/live/cid=401#vjms://125.227.160.91:8500:3502/live/cid=401
 鳳凰香港,http://live.fengshows.com/live/PHK_500k/index.m3u8
-TVB J2,https://coding.net/u/kai258/p/tv/git/raw/master/J2.m3u8#http://kai258.coding.me/tv/index.m3u8#vjms://122.155.180.8:8500:3502/live/cid=368#vjms://125.227.160.91:8500:3502/live/cid=368#http://stream-itv.myccdn.info/live/hd_j2.flv
+TVB J2,https://coding.net/u/kai258/p/tv/git/raw/master/J2.m3u8#https://kai258.coding.me/tv/TVBJ2.m3u8#vjms://122.155.180.8:8500:3502/live/cid=368#vjms://125.227.160.91:8500:3502/live/cid=368#http://stream-itv.myccdn.info/live/hd_j2.flv
 TVB翡翠台,https://coding.net/u/kai258/p/tv/git/raw/master/Jade.m3u8#http://acm.gg/jade.m3u#vjms://122.155.180.8:8500:3502/live/cid=362#vjms://125.227.160.91:8500:3502/live/cid=3628#http://stream-itv.myccdn.info/live/hd_jade.flv
 TVB明珠台,https://coding.net/u/kai258/p/tv/git/raw/master/Pearl.m3u8#http://acm.gg/pearl.m3u8#vjms://122.155.180.8:8500:3502/live/cid=367#vjms://125.227.160.91:8500:3502/live/cid=367#http://stream-itv.myccdn.info/live/hd_prarl.flv
 TVB無綫財經,https://coding.net/u/kai258/p/tv/git/raw/master/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8#vjms://122.155.180.8:8500:3502/live/cid=363#vjms://125.227.160.91:8500:3502/live/cid=363
