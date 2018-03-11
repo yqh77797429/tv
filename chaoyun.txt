@@ -26,9 +26,10 @@ RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av
 耀才財經台,https://kai258.coding.me/tv/bshdlive-pc.m3u8#https://kai258.coding.me/tv/bshdlive-mobile.m3u8
 
 ﻿潮云-台湾
-東森電影,http://uri.52itv.cn/vlive/ltv/1X42YYN.m3u8#vjms://122.155.180.8:8500:3502/live/cid=338#vjms://125.227.160.91:8500:3502/live/cid=338
-東森洋片,http://uri.52itv.cn/vlive/ltv/SY1CB0I.m3u8#vjms://122.155.180.8:8500:3502/live/cid=343#vjms://125.227.160.91:8500:3502/live/cid=343
-龍祥電影,http://uri.52itv.cn/vlive/ltv/X2VZU6A.m3u8
+東森電影,yfnet://stream.wyjxb.top/live/hd_dsdy#http://uri.52itv.cn/vlive/ltv/1X42YYN.m3u8#vjms://122.155.180.8:8500:3502/live/cid=338#vjms://125.227.160.91:8500:3502/live/cid=338
+東森洋片,yfnet://stream.wyjxb.top/live/hd_dsyp#http://uri.52itv.cn/vlive/ltv/SY1CB0I.m3u8#vjms://122.155.180.8:8500:3502/live/cid=343#vjms://125.227.160.91:8500:3502/live/cid=343
+龍祥電影,http://uri.52itv.cn/vlive/ltv/X2VZU6A.m3u8#tvbus://12DCBYtQDNw4VnuRLw6WZtgVMMmhGiRCP3BuhCuT6knwqZGNwM3
+壹電影,yfnet://stream.wyjxb.top/live/hd_ydy
 民視HD,http://uri.52itv.cn/vlive/ltv/TA44NR5.m3u8#tvbus://1kFEScAdCLrcgqFYTRBcK9arjVyX9F8f7NFUh9d2Fy2qfMAqgS#vjms://122.155.180.8:8500:3502/live/cid=450#vjms://125.227.160.91:8500:3502/live/cid=450
 台視HD,http://uri.52itv.cn/vlive/ltv/EB33BJ7.m3u8#tvbus://1f8KegFg52nupDXxSAjBmjVKsVC2bbDiJVXayJbW2CLfxXAxv4#vjms://122.155.180.8:8500:3502/live/cid=453#vjms://125.227.160.91:8500:3502/live/cid=453
 華視HD,http://uri.52itv.cn/vlive/ltv/1C10N91.m3u8#tvbus://12AugxB7h6ET1VnZzj9KFEt7GpHzV9FW6kaN5baGweLL4hmZw5#vjms://122.155.180.8:8500:3502/live/cid=451#vjms://125.227.160.91:8500:3502/live/cid=451
