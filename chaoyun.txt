@@ -2,9 +2,9 @@
 鳳凰中文,http://live.fengshows.com/live/PCC_500k/index.m3u8#http://stream-itv.myccdn.info/live/hd_fhzw.flv#vjms://122.155.180.8:8500:3502/live/cid=400#vjms://125.227.160.91:8500:3502/live/cid=400
 鳳凰資訊,http://live.fengshows.com/live/PIN_500k/index.m3u8#http://stream-itv.myccdn.info/live/hd_fhzx.flv#vjms://122.155.180.8:8500:3502/live/cid=401#vjms://125.227.160.91:8500:3502/live/cid=401
 鳳凰香港,http://live.fengshows.com/live/PHK_500k/index.m3u8#http://stream-itv.myccdn.info/live/fhxghd.flv
-TVB J2,https://kai258.coding.me/tv/J2.m3u8#https://kai258.coding.me/tv/TVBJ2.m3u8#http://stream-itv.myccdn.info/live/hd_j2.flv#vjms://122.155.180.8:8500:3502/live/cid=368#vjms://125.227.160.91:8500:3502/live/cid=368
-TVB翡翠台,https://kai258.coding.me/tv/Jade.m3u8#http://acm.gg/jade.m3u8#http://stream-itv.myccdn.info/live/hd_jade.flv#vjms://122.155.180.8:8500:3502/live/cid=362#vjms://125.227.160.91:8500:3502/live/cid=362
-TVB明珠台,https://kai258.coding.me/tv/Pearl.m3u8#http://acm.gg/pearl.m3u8#http://stream-itv.myccdn.info/live/hd_prarl.flv#vjms://122.155.180.8:8500:3502/live/cid=367#vjms://125.227.160.91:8500:3502/live/cid=367
+TVB J2,http://stream-itv.myccdn.info/live/hd_j2.flv#https://kai258.coding.me/tv/J2.m3u8#https://kai258.coding.me/tv/TVBJ2.m3u8#vjms://122.155.180.8:8500:3502/live/cid=368#vjms://125.227.160.91:8500:3502/live/cid=368
+TVB翡翠台,http://stream-itv.myccdn.info/live/hd_jade.flv#https://kai258.coding.me/tv/Jade.m3u8#http://acm.gg/jade.m3u8#vjms://122.155.180.8:8500:3502/live/cid=362#vjms://125.227.160.91:8500:3502/live/cid=362
+TVB明珠台,http://stream-itv.myccdn.info/live/hd_prarl.flv#https://kai258.coding.me/tv/Pearl.m3u8#http://acm.gg/pearl.m3u8#vjms://122.155.180.8:8500:3502/live/cid=367#vjms://125.227.160.91:8500:3502/live/cid=367
 TVB無綫財經,https://kai258.coding.me/tv/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8#http://stream-itv.myccdn.info/live/tvbwxcj.flv
 TVB無綫新聞,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news#http://stream-itv.myccdn.info/live/tvbwxxw.flv#vjms://122.155.180.8:8500:3502/live/cid=366#vjms://125.227.160.91:8500:3502/live/cid=366
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
