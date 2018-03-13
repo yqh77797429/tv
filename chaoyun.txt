@@ -34,11 +34,11 @@ ViuTVsix,http://stream-itv.myccdn.info/live/viutvsix.flv
 東森洋片,http://uri.52itv.cn/vlive/ltv/SY1CB0I.m3u8#http://stream-itv.myccdn.info/live/hd_dsyp.flv#vjms://122.155.180.8:8500:3502/live/cid=343#vjms://125.227.160.91:8500:3502/live/cid=343
 壹電影,http://stream-itv.myccdn.info/live/hd_ydy.flv
 龍祥電影,http://uri.52itv.cn/vlive/ltv/X2VZU6A.m3u8#tvbus://12DCBYtQDNw4VnuRLw6WZtgVMMmhGiRCP3BuhCuT6knwqZGNwM3
-龙华电影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-longturn03/litv-pc/index.m3u8#4gtv://longturn03
+龍華電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-longturn03/litv-pc/index.m3u8#4gtv://longturn03
 靖天電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv061/litv-pc/index.m3u8#4gtv://4gtv061
 數位電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8#4gtv://4gtv011
 日舞電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8#4gtv://4gtv017
-焦点电影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-pc/index.m3u8#4gtv://4gtv053
+焦點電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-pc/index.m3u8#4gtv://4gtv053
 民視HD,http://uri.52itv.cn/vlive/ltv/TA44NR5.m3u8#tvbus://1kFEScAdCLrcgqFYTRBcK9arjVyX9F8f7NFUh9d2Fy2qfMAqgS#vjms://122.155.180.8:8500:3502/live/cid=450#vjms://125.227.160.91:8500:3502/live/cid=450
 台視HD,http://uri.52itv.cn/vlive/ltv/EB33BJ7.m3u8#tvbus://1f8KegFg52nupDXxSAjBmjVKsVC2bbDiJVXayJbW2CLfxXAxv4#vjms://122.155.180.8:8500:3502/live/cid=453#vjms://125.227.160.91:8500:3502/live/cid=453
 華視HD,http://uri.52itv.cn/vlive/ltv/1C10N91.m3u8#tvbus://12AugxB7h6ET1VnZzj9KFEt7GpHzV9FW6kaN5baGweLL4hmZw5s#vjms://122.155.180.8:8500:3502/live/cid=451#vjms://125.227.160.91:8500:3502/live/cid=451
