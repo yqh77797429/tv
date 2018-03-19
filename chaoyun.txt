@@ -1,12 +1,13 @@
 ﻿潮云-香港
-鳳凰中文,http://live.fengshows.com/live/PCC_500k/index.m3u8#http://stream-itv.myccdn.info/live/hd_fhzw.flv#vjms://122.155.180.8:8500:3502/live/cid=400#vjms://125.227.160.91:8500:3502/live/cid=400
-鳳凰資訊,http://live.fengshows.com/live/PIN_500k/index.m3u8#http://stream-itv.myccdn.info/live/hd_fhzx.flv#vjms://122.155.180.8:8500:3502/live/cid=401#vjms://125.227.160.91:8500:3502/live/cid=401
+鳳凰中文,http://live.fengshows.com/live/PCC_500k/index.m3u8#http://stream-itv.myccdn.info/live/hd_fhzw.flv#vjms://58.215.41.46:8500:5021/live/cid=400#vjms://61.145.184.66:8500:3502/live/cid=400
+鳳凰資訊,http://live.fengshows.com/live/PIN_500k/index.m3u8#http://stream-itv.myccdn.info/live/hd_fhzx.flv#vjms://58.215.41.46:8500:5021/live/cid=401#vjms://61.145.184.66:8500:3502/live/cid=401
 鳳凰香港,http://live.fengshows.com/live/PHK_500k/index.m3u8#http://stream-itv.myccdn.info/live/fhxghd.flv
-TVB J2,http://stream-itv.myccdn.info/live/hd_j2.flv#https://kai258.coding.me/tv/J2.m3u8#https://kai258.coding.me/tv/TVBJ2.m3u8#vjms://122.155.180.8:8500:3502/live/cid=368#vjms://125.227.160.91:8500:3502/live/cid=368
-TVB翡翠台,http://stream-itv.myccdn.info/live/hd_jade.flv#https://kai258.coding.me/tv/Jade.m3u8#http://acm.gg/jade.m3u8#vjms://122.155.180.8:8500:3502/live/cid=362#vjms://125.227.160.91:8500:3502/live/cid=362
-TVB明珠台,http://stream-itv.myccdn.info/live/hd_prarl.flv#https://kai258.coding.me/tv/Pearl.m3u8#http://acm.gg/pearl.m3u8#vjms://122.155.180.8:8500:3502/live/cid=367#vjms://125.227.160.91:8500:3502/live/cid=367
+TVB J2,http://stream-itv.myccdn.info/live/hd_j2.flv#https://kai258.coding.me/tv/J2.m3u8#https://kai258.coding.me/tv/TVBJ2.m3u8#vjms://58.215.41.46:8500:5021/live/cid=368#vjms://61.145.184.66:8500:3502/live/cid=368
+TVB翡翠台[粤语],http://stream-itv.myccdn.info/live/hd_jade.flv#https://kai258.coding.me/tv/Jade.m3u8#http://acm.gg/jade.m3u8#vjms://58.215.41.46:8500:5021/live/cid=362#vjms://61.145.184.66:8500:3502/live/cid=362
+TVB翡翠台[国语],http://hlstx.plu.cn/onlive/381cfcf6141645e1ae6ba991ff522582.m3u8#http://www.heosan.cn/a1/hkwx.m3u8?id=jadejiema4
+TVB明珠台,http://stream-itv.myccdn.info/live/hd_prarl.flv#https://kai258.coding.me/tv/Pearl.m3u8#http://acm.gg/pearl.m3u8#vjms://58.215.41.46:8500:5021/live/cid=367#vjms://61.145.184.66:8500:3502/live/cid=367
 TVB無綫財經,https://kai258.coding.me/tv/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8#http://stream-itv.myccdn.info/live/tvbwxcj.flv
-TVB無綫新聞,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news#http://stream-itv.myccdn.info/live/tvbwxxw.flv#vjms://122.155.180.8:8500:3502/live/cid=366#vjms://125.227.160.91:8500:3502/live/cid=366
+TVB無綫新聞,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news#http://stream-itv.myccdn.info/live/tvbwxxw.flv#vjms://58.215.41.46:8500:5021/live/cid=366#vjms://61.145.184.66:8500:3502/live/cid=366
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB8,https://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8#msc://CTVB8#http://stream-itv.myccdn.info/live/hd_tvb8.flv
 TVB星河台,tvbus://12YAZLWfsob12gN25dYM9bDLjK6uJH9x6xgDHtJsQY1RyMsQ4MR#msc://CXHMovie#http://stream-itv.myccdn.info/live/hd_tvbxh.flv
@@ -17,7 +18,7 @@ TVB通識台,msc://CJunior
 TVB生活台,msc://CLife
 TVB翡翠國際,msc://CJHK5
 TVB翡翠衛星,http://stream-itv.myccdn.info/live/hd_test.flv
-衛視電影,msc://CStarMovie#vjms://122.155.180.8:8500:3502/live/cid=94#vjms://125.227.160.91:8500:3502/live/cid=94
+衛視電影,msc://CStarMovie#vjms://58.215.41.46:8500:5021/live/cid=94#vjms://61.145.184.66:8500:3502:3502/live/cid=94
 衛視洋片,tvbus://12U6J9Rbo1H1EvdxTHndiseUyWHzLouaxVQqSmvdg7Lp2K53UZ4
 HBO HD,tvbus://12DNcjTGo2DrmbXsvtw8MUwGv663qJbkMyLjHGoDc1Y9Nxbtjnf
 RHK-31電視台,http://stream-itv.myccdn.info/live/rthk31.flv#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
@@ -30,8 +31,8 @@ ViuTVsix,http://stream-itv.myccdn.info/live/viutvsix.flv
 耀才財經台,https://kai258.coding.me/tv/bshdlive-pc.m3u8#https://kai258.coding.me/tv/bshdlive-mobile.m3u8
 
 ﻿潮云-台湾
-東森電影,http://uri.52itv.cn/vlive/ltv/1X42YYN.m3u8#http://stream-itv.myccdn.info/live/hd_dsdy.flv#vjms://122.155.180.8:8500:3502/live/cid=338#vjms://125.227.160.91:8500:3502/live/cid=338
-東森洋片,http://uri.52itv.cn/vlive/ltv/SY1CB0I.m3u8#http://stream-itv.myccdn.info/live/hd_dsyp.flv#vjms://122.155.180.8:8500:3502/live/cid=343#vjms://125.227.160.91:8500:3502/live/cid=343
+東森電影,http://uri.52itv.cn/vlive/ltv/1X42YYN.m3u8#http://stream-itv.myccdn.info/live/hd_dsdy.flv#vjms://58.215.41.46:8500:5021/live/cid=338#vjms://61.145.184.66:8500:3502/live/cid=338
+東森洋片,http://uri.52itv.cn/vlive/ltv/SY1CB0I.m3u8#http://stream-itv.myccdn.info/live/hd_dsyp.flv#vjms://58.215.41.46:8500:5021/live/cid=343#vjms://61.145.184.66:8500:3502/live/cid=343
 壹電影,http://stream-itv.myccdn.info/live/hd_ydy.flv
 龍祥電影,http://uri.52itv.cn/vlive/ltv/X2VZU6A.m3u8#tvbus://12DCBYtQDNw4VnuRLw6WZtgVMMmhGiRCP3BuhCuT6knwqZGNwM3
 龍華電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-longturn03/litv-pc/index.m3u8#4gtv://longturn03
@@ -39,27 +40,27 @@ ViuTVsix,http://stream-itv.myccdn.info/live/viutvsix.flv
 數位電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8#4gtv://4gtv011
 日舞電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8#4gtv://4gtv017
 焦點電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-pc/index.m3u8#4gtv://4gtv053
-民視HD,http://uri.52itv.cn/vlive/ltv/TA44NR5.m3u8#tvbus://1kFEScAdCLrcgqFYTRBcK9arjVyX9F8f7NFUh9d2Fy2qfMAqgS#vjms://122.155.180.8:8500:3502/live/cid=450#vjms://125.227.160.91:8500:3502/live/cid=450
-台視HD,http://uri.52itv.cn/vlive/ltv/EB33BJ7.m3u8#tvbus://1f8KegFg52nupDXxSAjBmjVKsVC2bbDiJVXayJbW2CLfxXAxv4#vjms://122.155.180.8:8500:3502/live/cid=453#vjms://125.227.160.91:8500:3502/live/cid=453
-華視HD,http://uri.52itv.cn/vlive/ltv/1C10N91.m3u8#tvbus://12AugxB7h6ET1VnZzj9KFEt7GpHzV9FW6kaN5baGweLL4hmZw5s#vjms://122.155.180.8:8500:3502/live/cid=451#vjms://125.227.160.91:8500:3502/live/cid=451
-中視HD,http://uri.52itv.cn/vlive/ltv/X23V0C9.m3u8#vjms://122.155.180.8:8500:3502/live/cid=452#vjms://125.227.160.91:8500:3502/live/cid=452
-公視HD,http://uri.52itv.cn/vlive/ltv/B1I3908.m3u8#vjms://122.155.180.8:8500:3502/live/cid=436#vjms://125.227.160.91:8500:3502/live/cid=436
-東森超視HD,http://uri.52itv.cn/vlive/ltv/6WDI0C5.m3u8#vjms://122.155.180.8:8500:3502/live/cid=426#vjms://125.227.160.91:8500:3502/live/cid=426
+民視HD,http://uri.52itv.cn/vlive/ltv/TA44NR5.m3u8#tvbus://1kFEScAdCLrcgqFYTRBcK9arjVyX9F8f7NFUh9d2Fy2qfMAqgS#vjms://58.215.41.46:8500:5021/live/cid=450#vjms://61.145.184.66:8500:3502/live/cid=450
+台視HD,http://uri.52itv.cn/vlive/ltv/EB33BJ7.m3u8#tvbus://1f8KegFg52nupDXxSAjBmjVKsVC2bbDiJVXayJbW2CLfxXAxv4#vjms://58.215.41.46:8500:5021/live/cid=453#vjms://61.145.184.66:8500:3502/live/cid=453
+華視HD,http://uri.52itv.cn/vlive/ltv/1C10N91.m3u8#tvbus://12AugxB7h6ET1VnZzj9KFEt7GpHzV9FW6kaN5baGweLL4hmZw5s#vjms://58.215.41.46:8500:5021/live/cid=451#vjms://61.145.184.66:8500:3502/live/cid=451
+中視HD,http://uri.52itv.cn/vlive/ltv/X23V0C9.m3u8#vjms://58.215.41.46:8500:5021/live/cid=452#vjms://61.145.184.66:8500:3502/live/cid=452
+公視HD,http://uri.52itv.cn/vlive/ltv/B1I3908.m3u8#vjms://58.215.41.46:8500:5021/live/cid=436#vjms://61.145.184.66:8500:3502/live/cid=436
+東森超視HD,http://uri.52itv.cn/vlive/ltv/6WDI0C5.m3u8#vjms://58.215.41.46:8500:5021/live/cid=426#vjms://61.145.184.66:8500:3502/live/cid=426
 壹電視新聞,https://kai258.coding.me/tv/eratv-1.m3u8#https://kai258.coding.me/tv/eratv-2.m3u8#https://kai258.coding.me/tv/eratv-3.m3u8#http://uri.52itv.cn/vlive/ltv/O30O0N9.m3u8#tvbus://1VCVUm15HRE1xFptdBeoSQvtT7nuxj8MALxp1uhnvjJka9pgPX
-東森新聞,http://uri.52itv.cn/vlive/ltv/7AOU04J.m3u8#tvbus://12ZZTcPjRUUmHCfTzQuR9tm1eFjHq1DVBgMqy9ZTLaaD4ej8dwi#vjms://122.155.180.8:8500:3502/live/cid=340#vjms://125.227.160.91:8500:3502/live/cid=340
+東森新聞,http://uri.52itv.cn/vlive/ltv/7AOU04J.m3u8#tvbus://12ZZTcPjRUUmHCfTzQuR9tm1eFjHq1DVBgMqy9ZTLaaD4ej8dwi#vjms://58.215.41.46:8500:5021/live/cid=340#vjms://61.145.184.66:8500:3502/live/cid=340
 民視新聞,http://uri.52itv.cn/vlive/ltv/D1R4A5K.m3u8#tvbus://12mWxLWf2tfKad11Jts4brWfLrCQpfBRqV1qkjdf9wHjzyNQ3pW#tvbus://126FX7BSLEormrbdxxjjqCtArL63UDWHafad2KxYsKtjNSW469v
 中視新聞,tvbus://12r3gHenwoCkD3CB9SCmree62yXsLM2hfnqAdoPEnC85voBBt5
 華視新聞,http://uri.52itv.cn/vlive/ltv/K124Y63.m3u8
-三立新聞,http://uri.52itv.cn/vlive/ltv/XB2Y0G4.m3u8#tvbus://12nvbXY2KnPqsT2jH8vBC9vmGNbioKG86ifBvxsdXSPzZKD7Hzw#vjms://122.155.180.8:8500:3502/live/cid=352#vjms://125.227.160.91:8500:3502/live/cid=352
-非凡新聞,http://uri.52itv.cn/vlive/ltv/KZ04TZW.m3u8#vjms://122.155.180.8:8500:3502/live/cid=443#vjms://125.227.160.91:8500:3502/live/cid=443
+三立新聞,http://uri.52itv.cn/vlive/ltv/XB2Y0G4.m3u8#tvbus://12nvbXY2KnPqsT2jH8vBC9vmGNbioKG86ifBvxsdXSPzZKD7Hzw#vjms://58.215.41.46:8500:5021/live/cid=352#vjms://61.145.184.66:8500:3502/live/cid=352
+非凡新聞,http://uri.52itv.cn/vlive/ltv/KZ04TZW.m3u8#vjms://58.215.41.46:8500:5021/live/cid=443#vjms://61.145.184.66:8500:3502/live/cid=443
 中天新聞,http://uri.52itv.cn/vlive/ltv/UK6S4V1.m3u8#tvbus://15kDb7NzAM21Nzb6RySsEjmvsoLtQwJCzJ5NXGQRDK4hCGbfmH#tvbus://1cC87qSfdBxJXKjRq3i7F1KW5nvkj82rztPZwKfuAJJ2eWNv76
-年代新聞,http://uri.52itv.cn/vlive/ltv/1OP0Z63.m3u8#tvbus://127bnXBmsqgK94cBQWWxKPBoV6y8Yux5Wims41EMtdVHxAogpf9#vjms://122.155.180.8:8500:3502/live/cid=455#vjms://125.227.160.91:8500:3502/live/cid=455
-TVBS新聞,http://uri.52itv.cn/vlive/ltv/8W1QF4V.m3u8#vjms://122.155.180.8:8500:3502/live/cid=348#vjms://125.227.160.91:8500:3502/live/cid=348
+年代新聞,http://uri.52itv.cn/vlive/ltv/1OP0Z63.m3u8#tvbus://127bnXBmsqgK94cBQWWxKPBoV6y8Yux5Wims41EMtdVHxAogpf9#vjms://58.215.41.46:8500:5021/live/cid=455#vjms://61.145.184.66:8500:3502/live/cid=455
+TVBS新聞,http://uri.52itv.cn/vlive/ltv/8W1QF4V.m3u8#vjms://58.215.41.46:8500:5021/live/cid=348#vjms://61.145.184.66:8500:3502/live/cid=348
 環宇新聞1,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/index.m3u8#4gtv://longturn14
 環宇新聞2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/index.m3u8#4gtv://longturn15
 東森亞洲新聞,tvbus://12UcH3fCsrTbzP3EHEetFDCMUoXQCQMVEsWoT842uRVqd7J25ek
-東森財經新聞,http://uri.52itv.cn/vlive/ltv/J82R0Y9.m3u8#vjms://122.155.180.8:8500:3502/live/cid=456#vjms://125.227.160.91:8500:3502/live/cid=456
-東森綜合,http://uri.52itv.cn/vlive/ltv/XSU2YJ7.m3u8#tvbus://126m7UGkgjRgCTVN4HkqrskCnz1A4TQYMTviu6s3ybitwnXRSmm#vjms://122.155.180.8:8500:3502/live/cid=333#vjms://125.227.160.91:8500:3502/live/cid=333
+東森財經新聞,http://uri.52itv.cn/vlive/ltv/J82R0Y9.m3u8#vjms://58.215.41.46:8500:5021/live/cid=456#vjms://61.145.184.66:8500:3502/live/cid=456
+東森綜合,http://uri.52itv.cn/vlive/ltv/XSU2YJ7.m3u8#tvbus://126m7UGkgjRgCTVN4HkqrskCnz1A4TQYMTviu6s3ybitwnXRSmm#vjms://58.215.41.46:8500:5021/live/cid=333#vjms://61.145.184.66:8500:3502/live/cid=333
 台視綜合,http://uri.52itv.cn/vlive/ltv/4MA0O14.m3u8
-八大綜合,http://uri.52itv.cn/vlive/ltv/GS3W2IM.m3u8#vjms://122.155.180.8:8500:3502/live/cid=354#vjms://125.227.160.91:8500:3502/live/cid=354
-中天綜合,http://uri.52itv.cn/vlive/ltv/KE8F0O4.m3u8#vjms://122.155.180.8:8500:3502/live/cid=341#vjms://125.227.160.91:8500:3502/live/cid=341
+八大綜合,http://uri.52itv.cn/vlive/ltv/GS3W2IM.m3u8#vjms://58.215.41.46:8500:5021/live/cid=354#vjms://61.145.184.66:8500:3502/live/cid=354
+中天綜合,http://uri.52itv.cn/vlive/ltv/KE8F0O4.m3u8#vjms://58.215.41.46:8500:5021/live/cid=341#vjms://61.145.184.66:8500:3502/live/cid=341
