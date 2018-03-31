@@ -48,7 +48,7 @@ RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av
 東森新聞,ltv://23#tvbus://12ZZTcPjRUUmHCfTzQuR9tm1eFjHq1DVBgMqy9ZTLaaD4ej8dwi#vjms://58.215.41.46:8500:5021/live/cid=340#vjms://61.145.184.66:8500:3502/live/cid=340
 民視新聞,ltv://21#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://61.216.177.73/sta/ch1865026.m3u8#tvbus://12mWxLWf2tfKad11Jts4brWfLrCQpfBRqV1qkjdf9wHjzyNQ3pW#tvbus://126FX7BSLEormrbdxxjjqCtArL63UDWHafad2KxYsKtjNSW469v
 台視新聞,ltv://27
-中視新聞,tvbus://12r3gHenwoCkD3CB9SCmree62yXsLM2hfnqAdoPEnC85voBBt5
+中視新聞,ltv://28#tvbus://12r3gHenwoCkD3CB9SCmree62yXsLM2hfnqAdoPEnC85voBBt5
 華視新聞,ltv://16
 三立新聞,ltv://22#tvbus://12nvbXY2KnPqsT2jH8vBC9vmGNbioKG86ifBvxsdXSPzZKD7Hzw#vjms://58.215.41.46:8500:5021/live/cid=352#vjms://61.145.184.66:8500:3502/live/cid=352
 非凡新聞,http://60.199.188.65/HLS/WG_USTV-N/index.m3u8#vjms://58.215.41.46:8500:5021/live/cid=443#vjms://61.145.184.66:8500:3502/live/cid=443
