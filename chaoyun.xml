@@ -3,7 +3,7 @@
 鳳凰資訊,http://223.110.243.155/PLTV/2510088/224/3221227163/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
 鳳凰香港,http://223.110.243.153/PLTV/2510088/224/3221227183/1.m3u8#http://223.82.250.72/live/fhhongkong/1.m3u8#http://223.110.243.140/PLTV/2510088/224/3221227183/1.m3u8
 TVB J2,yfnet://play.stream.52itv.cn/live/myhd_j2#vjms://58.215.41.46:8500:5021/live/cid=368#vjms://58.215.41.46:8500:3502/live/cid=368#http://s-423975.gotocdn.com:6330/v/iptv.php?id=j2#P2p://211.23.22.16:9906/59fb3f96000e4f280f69dd98b3d564cc.ts
-TVB翡翠台,yfnet://play.stream.52itv.cn/live/myhd_jade#http://acm.gg/jade.m3u8##http://s-423975.gotocdn.com:6330/v/iptv.php?id=jade#http://s-423975.gotocdn.com:6330/v/jade.php#vjms://58.215.41.46:8500:5021/live/cid=362#P2p://211.23.22.16:9906/59fb3f96000485240f69db16b5e54fcb.ts
+TVB翡翠台,yfnet://play.stream.52itv.cn/live/myhd_jade#http://acm.gg/jade.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=jade#http://s-423975.gotocdn.com:6330/v/jade.php#vjms://58.215.41.46:8500:5021/live/cid=362#P2p://211.23.22.16:9906/59fb3f96000485240f69db16b5e54fcb.ts
 TVB明珠台,yfnet://play.stream.52itv.cn/live/myhd_mingzhu#vjms://58.215.41.46:8500:5021/live/cid=367#http://acm.gg/pearl.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=pearl
 TVB無綫財經,https://kai258.coding.me/tv/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8#P2p://211.23.22.16:9906/59fb3f96000b4d1e0f69dcd3d326c933.ts
 TVB無綫新聞,yfnet://play.stream.52itv.cn/live/myhd_inews#http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news#vjms://58.215.41.46:8500:3502/live/cid=366#P2p://211.23.22.16:9906/59fb3f96000840550f69dc0b143d36b0.ts
