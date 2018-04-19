@@ -75,7 +75,8 @@ TVBS新聞,ltv://25#http://210.201.54.101/glive2/tc-tvbs-n/chunklist_w1402303639
 民視台灣,ltv://13#http://61.216.177.73/sta/ch1865028.m3u8
 三立台灣,http://live.italkdd.com/ts137/channel_082.m3u8
 靖天日本,http://61.58.60.247:9000/live/243.m3u8
-TVBS歡樂,http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/index.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+TVBS歡樂,http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/index.m3u8
+GOODTV-1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 GOODTV-2,http://live.streamingfast.net/osmflivech2.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
 GOODTV音樂河,http://live.streamingfast.net/osmflivech5.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
 GOODTV愛+好醫生,http://live.streamingfast.net/osmflivech12.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
@@ -116,8 +117,7 @@ CETV-1,http://223.110.243.158/PLTV/2510088/224/3221227333/1.m3u8#http://hwottcdn
 CETV-2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225549/index.m3u8
 
 ﻿潮云-卫视
-湖南卫视,http://223.110.243.167/PLTV/2510088/224/3221227275/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=hnwshd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225503/index.m3u8
-湖南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225515/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225812/index.m3u8
+湖南卫视,http://223.110.243.167/PLTV/2510088/224/3221227275/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=hnwshd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225503/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225515/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225812/index.m3u8
 浙江卫视,http://223.110.243.151/PLTV/2510088/224/3221227327/1.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225504/index.m3u8http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225514/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 江苏卫视,http://223.110.243.151/PLTV/25100838/224/3221227262/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=jswshd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225502/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225538/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225808/index.m3u8
 东方卫视,http://223.110.243.151/PLTV/2510088/224/3221227259/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=dfwshd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225505/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225513/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
@@ -152,7 +152,6 @@ CETV-2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225549/index.m3u
 新疆卫视,http://223.110.243.144/PLTV/2510088/224/3221227125/1.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225539/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225794/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226026/index.m3u8
 西藏卫视,http://223.110.243.154/PLTV/2510088/224/3221227277/1.m3u8#http://s-423975.gotocdn.com:6330/migu.php?id=608907682#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226025/index.m3u8
 旅游卫视,http://stream1.hnntv.cn/lywsgq/sd/live.m3u8?_upt=?ts
-海峡卫视,http://61.58.60.247:9000/live/230.m3u8
 兵团卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226028/index.m3u8
 旅游卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225532/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226017/index.m3u8
 KNEWS24,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
@@ -165,17 +164,6 @@ BEST超级体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019
 BTV纪实,http://183.252.176.35//PLTV/88888888/224/3221225944/index.m3u8#http://183.251.61.207/PLTV/88888888/224/3221225944/index.m3u8
 上海纪实,http://183.252.176.35//PLTV/88888888/224/3221225946/index.m3u8#http://183.251.61.207/PLTV/88888888/224/3221225946/index.m3u8
 全纪实,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/index.m3u8
-湖南国际,http://61.58.60.247:9000/live/231.m3u8
-浙江国际,http://61.58.60.247:9000/live/233.m3u8
-江苏国际,http://61.58.60.247:9000/live/229.m3u8
-安徽国际,http://61.58.60.247:9000/live/237.m3u8
-北京国际,http://61.58.60.247:9000/live/226.m3u8
-东方国际,http://61.58.60.247:9000/live/227.m3u8
-河南国际,http://61.58.60.247:9000/live/240.m3u8
-山东国际,http://61.58.60.247:9000/live/239.m3u8
-天津国际,http://61.58.60.247:9000/live/238.m3u8
-重庆国际,http://61.58.60.247:9000/live/236.m3u8
-云南国际,http://61.58.60.247:9000/live/241.m3u8
 
 ﻿潮云-广东
 广东新闻,http://nclive.grtn.cn/xwpd/playlist.m3u8#http://nclive.grtn.cn/xwpd/sd/live.m3u8
