@@ -38,7 +38,7 @@ HKC 202,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_cha
 HKC 203,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
 
 ﻿潮云-澳门
-澳亞衛視,http://61.58.60.247:9000/live/256.m3u8#http://live.mastvnet.com/n1rtlHG/500/live.m3u8#http://live.mastvnet.com/iVx460D/500/live.m3u8
+澳亞衛視,http://live.mastvnet.com/n1rtlHG/500/live.m3u8#http://live.mastvnet.com/iVx460D/500/live.m3u8
 澳視澳门,http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8#http://live3.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8#http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 澳視資訊,http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8#http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8#http://live3.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 澳視高清,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8#http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
@@ -92,7 +92,7 @@ GOODTV美食旅遊,http://live.streamingfast.net/osmflivech14.m3u8#http://live.s
 CCTV-1综合,http://223.110.243.151/PLTV/2510088/224/3221227177/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv1hd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225556/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225519/index.m3u8
 CCTV-2财经,http://223.110.243.151/PLTV/2510088/224/3221227199/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv2hd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225544/index.m3u8
 CCTV-3综艺,http://223.110.243.154/PLTV/2510088/224/3221227165/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv3hd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225520/index.m3u8#http://183.207.249.5/PLTV/3/224/3221225588/index.m3u8
-CCTV-4中文国际,http://223.110.243.152/PLTV/2510088/224/3221227162/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv4hd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8#http://61.58.60.247:9000/live/220.m3u8
+CCTV-4中文国际,http://223.110.243.152/PLTV/2510088/224/3221227162/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv4hd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8
 CCTV-5体育,http://223.110.243.151/PLTV/2510088/224/3221227202/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv5hdb#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8#http://183.207.249.5/PLTV/3/224/3221227166/index.m3u8#http://223.110.243.149/PLTV/3/224/3221227166/index.m3u8
 CCTV-5+体育赛事,http://223.110.243.151/PLTV/2510088/224/3221227285/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv5p
 CCTV-6电影,http://223.110.243.151/PLTV/2510088/224/3221227145/1.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=cctv6hd#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225522/index.m3u8
