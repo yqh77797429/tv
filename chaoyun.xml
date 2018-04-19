@@ -4,8 +4,9 @@
 鳳凰香港,http://223.110.243.153/PLTV/2510088/224/3221227183/1.m3u8#http://223.82.250.72/live/fhhongkong/1.m3u8#http://223.110.243.140/PLTV/2510088/224/3221227183/1.m3u8
 TVB J2,yfnet://play.stream.52itv.cn/live/myhd_j2#vjms://58.215.41.46:8500:5021/live/cid=368#vjms://58.215.41.46:8500:3502/live/cid=368#http://s-423975.gotocdn.com:6330/v/iptv.php?id=j2#P2p://211.23.22.16:9906/59fb3f96000e4f280f69dd98b3d564cc.ts
 TVB翡翠台,yfnet://play.stream.52itv.cn/live/myhd_jade#http://acm.gg/jade.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=jade#http://s-423975.gotocdn.com:6330/v/jade.php#vjms://58.215.41.46:8500:5021/live/cid=362#P2p://211.23.22.16:9906/59fb3f96000485240f69db16b5e54fcb.ts
+TVB翡翠台(普通话),yfnet://play.stream.52itv.cn/live/jadepth
 TVB明珠台,yfnet://play.stream.52itv.cn/live/myhd_mingzhu#vjms://58.215.41.46:8500:5021/live/cid=367#http://acm.gg/pearl.m3u8#http://s-423975.gotocdn.com:6330/v/iptv.php?id=pearl
-TVB無綫財經,https://kai258.coding.me/tv/Finance.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8#P2p://211.23.22.16:9906/59fb3f96000b4d1e0f69dcd3d326c933.ts
+TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8#P2p://211.23.22.16:9906/59fb3f96000b4d1e0f69dcd3d326c933.ts
 TVB無綫新聞,yfnet://play.stream.52itv.cn/live/myhd_inews#http://token.tvb.com/stream/live/hls/mobilehd_inews.smil?app=news#vjms://58.215.41.46:8500:3502/live/cid=366#P2p://211.23.22.16:9906/59fb3f96000840550f69dc0b143d36b0.ts
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB8,msc://CTVB8#http://tvb8-i.akamaihd.net/hls/live/562213/CTVB8M/CTVB8M-01.m3u8
@@ -20,6 +21,7 @@ ViuTV,http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8#http://viu
 衛視電影,msc://CStarMovie#vjms://58.215.41.46:8500:5021/live/cid=94#vjms://58.215.41.46:8500:3502/live/cid=94
 衛視洋片,tvbus://12U6J9Rbo1H1EvdxTHndiseUyWHzLouaxVQqSmvdg7Lp2K53UZ4
 HBO HD,tvbus://12DNcjTGo2DrmbXsvtw8MUwGv663qJbkMyLjHGoDc1Y9Nxbtjnf
+Discovery,yfnet://play.stream.52itv.cn/live/hd_discovery
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 香港衛視,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8#http://tm.ws.live.cntv.cn/cache/84_/seg0/index.m3u8#http://fms.cntv.lxdns.com/live/flv/channel84.flv#tvbus://12ewUZqZRo7NGPJagpFaNCGbPHH6ZYjWBxjYwXqDBL9eTBNJxpk
 香港電視,http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=a42bc0b5ac8dc21cb14f66924a25f468&uid=1&vid=1&mxres=1920&s=35556a8d92fa04b373ca45fa5f35c36a&cname=index2#http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=win8&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1312&net=wifi&udid=f4128ed9dbf7996480dc22165bf32082&ts=1482653858026&s=be7c078c776d45f5d47613c473ec5e70#http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=win8&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1312&net=wifi&udid=f4128ed9dbf7996480dc22165bf32082&ts=1482654272898&s=ad8ac8c3231fff71f65a4e6ad6d82984
