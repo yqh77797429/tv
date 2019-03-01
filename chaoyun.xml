@@ -1,12 +1,10 @@
 潮云-潮汕
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
-汕头综合,http://chaoyun.online/stxwzh.m3u8
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
-汕头生活,http://sttv-hls.cutv.com/7xjJK9d/500/v2273j0.m3u8
+汕头综合,http://chaoyun.online/stxwzh.m3u8
+汕头生活,http://sttv-hls.cutv.com/7xjJK9d/500/d72fxsJ.m3u8
 汕头生活,http://www.szmgiptv.com:14436/hls/18.m3u8
-汕头生活,http://coding.net/u/kai258/p/tv/git/raw/coding-pages/stjjsh.m3u8
-汕头影视,http://sttv-hls.cutv.com/G7Kql7a/500/p28G3K0.m3u8
-汕头影视,http://coding.net/u/kai258/p/tv/git/raw/coding-pages/styswy.m3u8
+汕头影视,http://sttv-hls.cutv.com/G7Kql7a/500/778f7sq.m3u8
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
@@ -24,7 +22,7 @@
 TVB J2,http://h.bertiechina.cn/atv/01kjzcom.m3u8
 TVB J2,http://h.bertiechina.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8
-鳳凰中文,http://183.2.199.30/live/5/60/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=m3u8.web.cloudplay
+鳳凰中文,http://14.29.60.80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
 鳳凰中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225684/index.m3u8
 鳳凰中文,http://183.2.199.31/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
 鳳凰中文,http://61.179.109.170:80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
@@ -32,7 +30,6 @@ TVB J2,http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8
 鳳凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 鳳凰中文,http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰中文,http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
-鳳凰資訊,http://183.2.199.30/live/5/60/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=m3u8.web.cloudplay
 鳳凰資訊,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8
 鳳凰資訊,http://183.2.199.31/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
 鳳凰資訊,http://61.179.109.170:80/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
@@ -175,10 +172,10 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 浙江卫视,http://117.169.72.142:8080/wh7f454c46tw2253136116_226251340/ysten-businessmobile/live/hdzhejiangstv/1.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225598/index.m3u8
 浙江卫视,http://183.207.248.71/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
-江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225504/index.m3u8
-江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225975/index.m3u8
-江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225826/index.m3u8
-江苏卫视,,http://ivi.bupt.edu.cn/hls/jstv.m3u8
+江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225502/index.m3u8
+江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
+江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225825/index.m3u8
+江苏卫视,http://ivi.bupt.edu.cn/hls/jstv.m3u8
 江苏卫视,http://117.169.120.165:8080/live/hdjiangsustv/playlist.m3u8
 江苏卫视,http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
 东方卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225505/index.m3u8
@@ -478,6 +475,7 @@ TVBS歡樂,http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/inde
 松視1,http://59.120.242.104:9000/live/live6.m3u8
 松視2,http://59.120.242.104:9000/live/live7.m3u8
 彩虹,http://60.248.127.231:1633/0.ts
+O-la-la 18+,http://176.115.136.45:8080/udp/233.166.172.157:1234
 緯來日本,http://59.120.242.104:9000/live/live11.m3u8
 緯來日本,rtmp://wv4.tp33.net/sat/tv761
 緯來日本,rtmp://wv4.tp33.net:1935/sat/tv761
