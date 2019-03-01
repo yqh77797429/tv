@@ -45,6 +45,7 @@ CCTV-2财经,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227589/1000010000000
 CCTV-2财经,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226788/00000100000000060000000000315939_0.smil
 CCTV-2财经,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv2/1300000/d1.m3u8
 CCTV-2财经,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv2/1300000/live.m3u8
+CCTV-3综艺,rtsp://113.136.42.39:554/PLTV/88888888/224/3221226116/10000100000000060000000001759239_0.smil
 CCTV-3综艺,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/2300000/d1.m3u8
 CCTV-3综艺,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/2300000/live.m3u8
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
@@ -437,6 +438,7 @@ TVBS歡樂,http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/inde
 松視1,http://59.120.242.104:9000/live/live6.m3u8
 松視2,http://59.120.242.104:9000/live/live7.m3u8
 彩虹,http://60.248.127.231:1633/0.ts
+O-la-la 18+,http://176.115.136.45:8080/udp/233.166.172.157:1234
 緯來日本,http://59.120.242.104:9000/live/live11.m3u8
 緯來日本,rtmp://wv4.tp33.net/sat/tv761
 緯來日本,rtmp://wv4.tp33.net:1935/sat/tv761
