@@ -1,4 +1,4 @@
-潮云-潮汕
+﻿潮云-潮汕
 汕头综合,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
@@ -44,9 +44,9 @@ CCTV-2财经,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227589/1000010000000
 CCTV-2财经,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226788/00000100000000060000000000315939_0.smil
 CCTV-2财经,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv2/1300000/d1.m3u8
 CCTV-2财经,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv2/1300000/live.m3u8
-CCTV-3综艺,http://125.210.158.10:8060/live/CCTV3HD_H265.m3u8
 CCTV-3综艺,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/2300000/d1.m3u8
 CCTV-3综艺,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/2300000/live.m3u8
+CCTV-3综艺,http://125.210.158.10:8060/live/CCTV3HD_H265.m3u8
 CCTV-3综艺,http://qnyy.bz5z.com/data/User/demo/home/py.php?m=51434526&id=851552
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 CCTV-3综艺,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226920/00000100000000060000000000422941_0.smil
@@ -55,9 +55,9 @@ CCTV-4中文国际,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227759/1000010
 CCTV-4中文国际,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226812/00000100000000060000000000339394_0.smil
 CCTV-4中文国际,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv4/1300000/d1.m3u8
 CCTV-4中文国际,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv4/1300000/live.m3u8
-CCTV-5体育,http://125.210.158.10:8060/live/CCTV5HD_H265.m3u8
 CCTV-5体育,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5hd/2300000/d1.m3u8
 CCTV-5体育,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5hd/2300000/live.m3u8
+CCTV-5体育,http://125.210.158.10:8060/live/CCTV5HD_H265.m3u8
 CCTV-5体育,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv5_2/index.m3u8
 CCTV-5体育,http://ivi.bupt.edu.cn/hls/cctv5.m3u8
 CCTV-5体育,http://hhab.chinashadt.com:2136/live/di2.stream/playlist.m3u8
@@ -67,8 +67,9 @@ CCTV-5+体育赛事,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226794/000001
 CCTV-5+体育赛事,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227356/10000100000000060000000003522472_0.smil
 CCTV-5+体育赛事,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5phd/2300000/d1.m3u8
 CCTV-5+体育赛事,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5phd/2300000/live.m3u8
-CCTV-6电影,http://125.210.158.10:8060/live/CCTV6HD_H265.m3u8
 CCTV-6电影,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv6hd/2300000/d1.m3u8
+CCTV-6电影,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv6hd/2300000/live.m3u8
+CCTV-6电影,http://125.210.158.10:8060/live/CCTV6HD_H265.m3u8
 CCTV-6电影,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
 CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 CCTV-6电影,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226879/00000100000000060000000000422947_0.smil
@@ -79,9 +80,9 @@ CCTV-7军事农业,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226850/0000010
 CCTV-7军事农业,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226777/00000100000000060000000000339393_0.smil
 CCTV-7军事农业,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv7/1300000/d1.m3u8
 CCTV-7军事农业,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv7/1300000/live.m3u8
-CCTV-8电视剧,http://125.210.158.10:8060/live/CCTV8HD_H265.m3u8
 CCTV-8电视剧,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv8hd/2300000/d1.m3u8
 CCTV-8电视剧,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv8hd/2300000/live.m3u8
+CCTV-8电视剧,http://125.210.158.10:8060/live/CCTV8HD_H265.m3u8
 CCTV-8电视剧,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
 CCTV-8电视剧,http://117.169.72.141:8080/wh7f454c46tw1872931080_223239074/ysten-businessmobile/live/cctv-8/1.m3u8
@@ -199,11 +200,11 @@ CCTV-国防军事,rtsp://125.88.104.45:554/PLTV/88888895/224/3221228243/10000100
 四川卫视,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226792/00000100000000060000000000339783_0.smil
 四川卫视,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/scws/1300000/d1.m3u8
 四川卫视,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/scws/1300000/live.m3u8
-东南卫视,http://125.210.152.20:9090/live/DNWSHD_H265.m3u8
 东南卫视,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/dnwshd/2300000/live.m3u8
 东南卫视,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/dnwshd/2300000/live.m3u8
 东南卫视,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/dnws/1300000/d1.m3u8
 东南卫视,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/dnws/1300000/live.m3u8
+东南卫视,http://125.210.152.20:9090/live/DNWSHD_H265.m3u8
 厦门卫视,http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
 广西卫视,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226861/00000100000000060000000000422398_0.smil
 广西卫视,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/gxws/1300000/d1.m3u8
@@ -337,7 +338,6 @@ CCTV-国防军事,rtsp://125.88.104.45:554/PLTV/88888895/224/3221228243/10000100
 深圳气象,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil
 
 ﻿潮云-香港
-TVB翡翠台,http://123.207.42.38/tvb.php?type=jade
 TVB翡翠台,http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
@@ -382,28 +382,12 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
 ﻿潮云-台湾
-民視HD,rtmp://wv4.tp33.net/sat/tv051
-民視HD,rtmp://wv4.tp33.net:1935/sat/tv051
-民視HD,rtmp://wv4.tp33.net/sat/tv052
-民視HD,rtmp://wv4.tp33.net:1935/sat/tv052
 民視新聞,http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
 民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-台視HD,rtmp://wv4.tp33.net/sat/tv071
-台視HD,rtmp://wv4.tp33.net:1935/sat/tv071
-台視HD,rtmp://wv4.tp33.net/sat/tv072
-台視HD,rtmp://wv4.tp33.net:1935/sat/tv072
 台視新聞,http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
 台視新聞,http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
 台視新聞,http://live.italkdd.com/ts142/channel_065.m3u8
-中視HD,rtmp://wv4.tp33.net/sat/tv091
-中視HD,rrtmp://wv4.tp33.net:1935/sat/tv091
-中視HD,rtmp://wv4.tp33.net/sat/tv092
-中視HD,rtmp://wv4.tp33.net:1935/sat/tv092
-華視HD,rtmp://wv4.tp33.net/sat/tv111
-華視HD,rtmp://wv4.tp33.net:1935/sat/tv111
-華視HD,rtmp://wv4.tp33.net/sat/tv112
-華視HD,rtmp://wv4.tp33.net:1935/sat/tv112
 超視HD,http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
 華視咨訊台,http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
 壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
@@ -414,45 +398,16 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/playlist.m3u8
 非凡新聞,http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 非凡新聞,http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
-年代新聞,http://59.120.242.104:9000/live/live3.m3u8
-中天新聞,http://59.120.242.104:9000/live/live4.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 三立台灣,http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
 三立台灣,rtmp://wv4.ts33.net/sat/tv292
-寰宇新聞,http://59.120.242.104:9000/live/live13.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
-TVBS新聞,rtmp://wv4.tp33.net/sat/tv551
-TVBS新聞,rtmp://wv4.tp33.net:1935/sat/tv551
-TVBS新聞,rtmp://wv4.tp33.net/sat/tv552
-TVBS新聞,rtmp://wv4.tp33.net:1935/sat/tv552
 TVBS歡樂,http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/index.m3u8
 新聞綜合,http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
 中旺電視,http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
-東森財經新聞,rtmp://wv4.tp33.net/sat/tv571
-東森財經新聞,rtmp://wv4.tp33.net:1935/sat/tv571
-東森財經新聞,rtmp://wv4.tp33.net/sat/tv572
-東森財經新聞,rtmp://wv4.tp33.net:1935/sat/tv572
 東森美洲新聞,http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
 東森美洲台,http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
-松視1,http://59.120.242.104:9000/live/live6.m3u8
-松視2,http://59.120.242.104:9000/live/live7.m3u8
 彩虹,http://60.248.127.231:1633/0.ts
-O-la-la 18+,http://176.115.136.45:8080/udp/233.166.172.157:1234
-緯來日本,http://59.120.242.104:9000/live/live11.m3u8
-緯來日本,rtmp://wv4.tp33.net/sat/tv761
-緯來日本,rtmp://wv4.tp33.net:1935/sat/tv761
-緯來日本,rtmp://wv4.tp33.net/sat/tv762
-緯來日本,rtmp://wv4.tp33.net:1935/sat/tv762
-緯來體育,http://59.120.242.104:9000/live/live12.m3u8
-緯來體育,rtmp://wv4.tp33.net/sat/tv721
-緯來體育,rtmp://wv4.tp33.net:1935/sat/tv721
-緯來體育,rtmp://wv4.ts33.net/sat/tv722
-緯來體育,rtmp://wv4.tp33.net:1935/sat/tv722
-緯來育樂,rtmp://wv4.tp33.net/sat/tv701
-緯來育樂,rtmp://wv4.tp33.net:1935/sat/tv701
-緯來育樂,rtmp://wv4.tp33.net/sat/tv702
-緯來育樂,rtmp://wv4.tp33.net:1935/sat/tv702
-愛爾達體育,http://59.120.242.104:9000/live/live9.m3u8
 亞洲旅遊台,http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
 大愛電視,http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 YOYO TV,http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
@@ -474,10 +429,6 @@ GOODTV少兒,http://live.streamingfast.net/osmflivech13.m3u8
 GOODTV少兒,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
 GOODTV美食旅遊,http://live.streamingfast.net/osmflivech14.m3u8
 GOODTV美食旅遊,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
-Fox-1運動,rtmp://wv4.tp33.net/sat/tv731
-Fox-2運動,rtmp://wv4.tp33.net/sat/tv741
-緯來育樂,rtmp://wv4.tp33.net/sat/tv701
-緯來體育,rtmp://wv4.tp33.net/sat/tv721
 
 ﻿潮云-海外
 新加坡8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/prog_index.m3u8
@@ -510,7 +461,6 @@ Hollywood Movies2,http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-115
 ﻿潮云-轮播
 林正英电影,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
 林正英电影,http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-林正英连续剧,http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 周星驰电影,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 成龙电影,http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 刘德华电影,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
@@ -519,7 +469,7 @@ Hollywood Movies2,http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-115
 洪金宝电影,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
 洪金宝电影,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-古天乐电影,http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+五福星电影,http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
 古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 赌片电影,https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
 赌片电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
@@ -537,4 +487,5 @@ Hollywood Movies2,http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-115
 粤语电影,http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 经典电影,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227150/10000100000000060000000000965545_0.smil
 热播剧场,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227167/10000100000000060000000000965546_0.smil
+连续剧连播,http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 舌尖上的中国,https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
