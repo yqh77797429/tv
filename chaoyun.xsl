@@ -21,6 +21,7 @@
 ﻿潮云-香港
 TVB J2,http://c01.live.aliyuncdn.sharkselection.com/live/03dsdsadsdas.m3u8
 TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
+TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8
 TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
