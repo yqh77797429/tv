@@ -385,11 +385,3 @@ HBO,tvbus://12Vmx2QXZ2PsV4q86ZJawkfTdcTK88xR1zXgD1VMmDACamvnEr7
 热播剧场,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227167/10000100000000060000000000965546_0.smil
 连续剧连播,http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 舌尖上的中国,https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-
-﻿潮云-CHC-CBN系列
-CHC动作电影,http://api2.iptv888.com/v/pyitv.php?token=BOqUfr6Z7IsmV3vcQ5TAhzyu&id=851595
-CHC高清电影,http://api2.iptv888.com/v/pyitv.php?token=AbueL7eT690mV3vcQ5TAhDur&id=851596
-CHC家庭影院,http://api2.iptv888.com/v/pyitv.php?token=U76aKbKSuIsmV3vcQ5TAhDyu&id=851597
-CBN每日影院,hhttp://api2.iptv888.com/v/pyitv.php?token=BuqbLeeVu90mV3vcQ5TAhTuq&id=851598
-CBN幸福剧场,http://api2.iptv888.com/v/pyitv.php?token=ArzNfbOW6YwmV3vcQ5TAhT6s&id=851599
-CBN风尚生活,http://api2.iptv888.com/v/pyitv.php?token=VryVe7%2BT6tAmV3vcQ5TAgjum&id=851600
