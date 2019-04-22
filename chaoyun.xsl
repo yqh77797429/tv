@@ -35,6 +35,10 @@ TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
 鳳凰資訊,http://183.2.199.31/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
 鳳凰資訊,http://61.179.109.170:80/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
 鳳凰資訊,http://221.179.217.76/PLTV/88888888/224/3221225949/index.m3u8
+广东体育,rtsp://125.88.104.45:554/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
+广东体育,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227235/10000100000000060000000000985297_0.smil
+广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
+广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 
 ﻿潮云-CCTV
 CCTV-1综合,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil
@@ -47,8 +51,9 @@ CCTV-2财经,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227589/1000010000000
 CCTV-2财经,rtsp://125.88.104.45:554/PLTV/88888895/224/3221226788/00000100000000060000000000315939_0.smil
 CCTV-2财经,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv2/1300000/d1.m3u8
 CCTV-2财经,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv2/1300000/live.m3u8
-CCTV-3综艺,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/2300000/d1.m3u8
-CCTV-3综艺,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/2300000/live.m3u8
+CCTV-3综艺,http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
+CCTV-3综艺,http://27.148.146.13/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/2300000/mnf.m3u8
+CCTV-3综艺,http://api2.iptv888.com/v/bstv1.php?token=Vu2Yf%2BCRuowmV3vcQ5XLjzut&id=cctv3hd
 CCTV-3综艺,http://125.210.158.10:8060/live/CCTV3HD_H265.m3u8
 CCTV-3综艺,http://qnyy.bz5z.com/data/User/demo/home/py.php?m=51434526&id=851552
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
@@ -283,10 +288,6 @@ CCTV-国防军事,rtsp://125.88.104.45:554/PLTV/88888895/224/3221228243/10000100
 劲爆体育,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jbtyhd/2300000/live.m3u8
 
 ﻿潮云-广东
-广东体育,rtsp://125.88.104.45:554/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
-广东体育,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227235/10000100000000060000000000985297_0.smil
-广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
-广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/playlist.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
 广东经济,http://nclive.grtn.cn/tvs1/playlist.m3u8
@@ -341,11 +342,13 @@ CCTV-国防军事,rtsp://125.88.104.45:554/PLTV/88888895/224/3221228243/10000100
 深圳气象,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil
 
 ﻿潮云-香港
-TVB翡翠台,http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
+TVB翡翠台,http://api2.iptv888.com/v/tvb.php
+TVB翡翠台,http://api2.iptv888.com/v/pyitv.php?token=B7mZebKRu9wmV3vcQ5XLgD%2Br&id=851508
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
+TVB無綫新聞, http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas.m3u8
 TVB無綫新聞, http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
