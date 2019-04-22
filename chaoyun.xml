@@ -18,11 +18,13 @@
 
 ﻿潮云-香港-常用
 TVB J2,http://c01.live.aliyuncdn.sharkselection.com/live/03dsdsadsdas.m3u8
-TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
 TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
+TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8
 TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
+TVB J2,tvbus://123nkim1Tbbxwy2RB6od679bbRubx54RaZoE3VctyoiUqFDACTN
+鳳凰中文,tvbus://1PzRHnaM3YfzCfEvtiPdKvuRhk5dSBoGtEVyepmmpLqxgTLNM6
 鳳凰中文,http://14.29.60.80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
 鳳凰中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225684/index.m3u8
 鳳凰中文,http://183.2.199.31/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
@@ -31,6 +33,7 @@ TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
 鳳凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 鳳凰中文,http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰中文,http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
+鳳凰資訊,tvbus://12qULxbqvvPZ3TLj3wxLMzhKmpG61rwAt8zSS4x2fCn1WpVMrXQ
 鳳凰資訊,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8
 鳳凰資訊,http://183.2.199.31/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
 鳳凰資訊,http://61.179.109.170:80/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
@@ -42,7 +45,6 @@ TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
 鳳凰資訊,http://221.179.217.76/PLTV/88888888/224/3221225949/index.m3u8
 
 ﻿潮云-CCTV
-CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225556/index.m3u8
 CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8
 CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225829/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8
@@ -52,7 +54,6 @@ CCTV-1综合,http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
 CCTV-1综合,http://183.207.249.71/PLTV/3/224/3221225530/index.m3u8
 CCTV-1综合,http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
 CCTV-1综合,http://hnzc.chinashadt.com:1936/zhibo/2.stream_360p/playlist.m3u8
-CCTV-2财经,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226051/index.m3u8
 CCTV-2财经,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225544/index.m3u8
 CCTV-2财经,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225829/1.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -379,17 +380,20 @@ KNEWS24,http://ax.micaesoft.com/YMitv/YMITV_CN_SHKnews24_1.m3u8
 
 ﻿潮云-香港
 TVB翡翠台,http://api2.iptv888.com/v/tvb.php
-TVB翡翠台,http://api2.iptv888.com/v/pyitv.php?token=V%2BTIfeSZ7NkmV3vcQ5TCgTmv&id=851508
-TVB翡翠台,http://api2.iptv888.com/v/pyitv.php?token=B7mZebKRu9wmV3vcQ5XLgD%2Br&id=851508
+TVB翡翠台,tvbus://1bu58h8PQA4abumNsYz6R9Coq9662dcW8hqGDR5zgLu2bwRVoN
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-TVB明珠台,http://api2.iptv888.com/v/pyitv.php?token=VuyYc7XE69wmV3vcQ5TCgTOt&id=851472
+TVB明珠台,tvbus://1YcHWi1q3u1YKHVT5FNNjgwSg51XGuktSuE7beB6jdF4Phdbd5
+TVB無綫財經,tvbus://1yDjfzgaqXaPnaeuYSBvrfBC6dwaEneRYXLUQpsCqSxC7b6ttH
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
+TVB無綫新聞,tvbus://1BQg1E56ShweYYaNsCW3s7fsfYM6gJXzaJMMvc4DpBsvLYWYYH
 TVB無綫新聞, http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas.m3u8
 TVB無綫新聞, http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
+TVB星河台,tvbus://13AW5c1ersZkceFfjgAkbHU1mHPEztHX2kkWMYNqWSo4V2WkAc
+鳳凰香港,tvbus://123jYtCMLzksUxmHM1vXPmYut6M9yxhejoMTLaF5hhBDKycjVAT
 鳳凰香港,http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰美洲,http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
@@ -397,10 +401,8 @@ TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobi
 鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 星空衛視,http://222.207.48.30/hls/startv.m3u8
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-星空衛視,http://api2.iptv888.com/v/pyitv.php?token=U%2BqfebTD7tAmV3vcQ5TBhTuo&id=851465
-MTV now,http://api2.iptv888.com/play.m3u8?token=qHs37SeaDAE50ajKx5NRUujo&tid=pyitv&id=55
-新視覺,http://api2.iptv888.com/v/pyitv.php?token=B7yVKraY640mV3vcQ5TBgz%2Bn&id=851549
-新視覺,http://api2.iptv888.com/v/yqiptv.php?token=VL6Zf%2BLH7YsmV3vcQ5TAjzqq&id=150
+ViuTV,tvbus://1279aTLvLaYq6mY4fQWHCKhoc687SZJJZUgBARERSsYb51HuwG6
+ViuTV six,tvbus://1GrfVYQAZ9dkdenG8o7JjXT3QQTD2burzSwDJoii9pGr8iBE1b
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
@@ -417,7 +419,6 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳門衛視,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳門衛視,http://live.mastvnet.com/iVx460D/500/live.m3u8
-澳門衛視,http://api2.iptv888.com/v/pyitv.php?token=DL6cKLXH6NEmV3vcQ5TBhD2n&id=851496
 澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
 澳視高清,rtmp://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live
 澳門澳視衛視,rtmp://live4.tdm.com.mo:80/ch3/_definst_/ch3.live
@@ -481,6 +482,7 @@ GOODTV美食旅遊,http://live.streamingfast.net/hls-live/goodtv/_definst_/livee
 新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 奥多少儿频道, https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 HBO,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+HBO,tvbus://12Vmx2QXZ2PsV4q86ZJawkfTdcTK88xR1zXgD1VMmDACamvnEr7
 
 ﻿潮云-轮播
 林正英电影,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
