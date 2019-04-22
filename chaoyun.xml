@@ -378,11 +378,15 @@ KNEWS24,http://ax.micaesoft.com/YMitv/YMITV_CN_SHKnews24_1.m3u8
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 
 ﻿潮云-香港
-TVB翡翠台,http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
+TVB翡翠台,http://api2.iptv888.com/v/tvb.php
+TVB翡翠台,http://api2.iptv888.com/v/pyitv.php?token=V%2BTIfeSZ7NkmV3vcQ5TCgTmv&id=851508
+TVB翡翠台,http://api2.iptv888.com/v/pyitv.php?token=B7mZebKRu9wmV3vcQ5XLgD%2Br&id=851508
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+TVB明珠台,http://api2.iptv888.com/v/pyitv.php?token=VuyYc7XE69wmV3vcQ5TCgTOt&id=851472
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
+TVB無綫新聞, http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas.m3u8
 TVB無綫新聞, http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
@@ -393,11 +397,10 @@ TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobi
 鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 星空衛視,http://222.207.48.30/hls/startv.m3u8
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-美亞電影台,http://59.120.242.104:9000/live/live2.m3u8
-美亞電影台,http://1.live1.tvvtvv.com/plus/59live.m3u8?id=live2
-星衛電影台,http://59.120.242.104:9000/live/live10.m3u8
-新視覺,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/d1.m3u8
-新視覺,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/live.m3u8
+星空衛視,http://api2.iptv888.com/v/pyitv.php?token=U%2BqfebTD7tAmV3vcQ5TBhTuo&id=851465
+MTV now,http://api2.iptv888.com/play.m3u8?token=qHs37SeaDAE50ajKx5NRUujo&tid=pyitv&id=55
+新視覺,http://api2.iptv888.com/v/pyitv.php?token=B7yVKraY640mV3vcQ5TBgz%2Bn&id=851549
+新視覺,http://api2.iptv888.com/v/yqiptv.php?token=VL6Zf%2BLH7YsmV3vcQ5TAjzqq&id=150
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
@@ -414,6 +417,7 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳門衛視,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳門衛視,http://live.mastvnet.com/iVx460D/500/live.m3u8
+澳門衛視,http://api2.iptv888.com/v/pyitv.php?token=DL6cKLXH6NEmV3vcQ5TBhD2n&id=851496
 澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
 澳視高清,rtmp://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live
 澳門澳視衛視,rtmp://live4.tdm.com.mo:80/ch3/_definst_/ch3.live
@@ -471,32 +475,7 @@ GOODTV美食旅遊,http://live.streamingfast.net/osmflivech14.m3u8
 GOODTV美食旅遊,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
 
 ﻿潮云-海外
-新加坡8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/prog_index.m3u8
-新加坡U,http://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
-新加坡OKTO,http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-新加坡5,http://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-日本映画 Nihon Eiga TV,http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
-卫星剧场Eisei Gekijo,http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-amily Gekijyo家庭剧场,http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
-History历史频道,http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
-Cinefil WOWOW,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-沙特阿拉伯,http://stream02.fasttelco.net:1935/live/_definst_/alrai.stream/lihattv.m3u8.
-朝鲜日报台,rtmp://live.chosun.gscdn.com:1935/live/tvchosun1.stream
-加州音悦台,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
-Miami TV18+,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-ZEETV,http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
-Flix HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-NexTV,http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-WGN9 Chicago,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-英国Sky Tg24 Italy,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-英国Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
-英国Sky News Uk,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-英国Sky News Uk,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-FOX MOVIES,http://60.250.69.26:8080/live/startwest89.m3u8
 HBO,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-HBO2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-RETRO TV,http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-Hollywood Movies2,http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 
 ﻿潮云-轮播
 林正英电影,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
@@ -525,7 +504,5 @@ Hollywood Movies2,http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-115
 电影轮播,http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 大片直播,http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
 粤语电影,http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-经典电影,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227150/10000100000000060000000000965545_0.smil
-热播剧场,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227167/10000100000000060000000000965546_0.smil
 连续剧连播,http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 舌尖上的中国,https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
