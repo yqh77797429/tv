@@ -19,10 +19,10 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
-TVB J2,http://c01.live.aliyuncdn.sharkselection.com/live/03dsdsadsdas.m3u8
 TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
 TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
+TVB J2,http://bf.kxgkmi.cn/10088/79789.m3u8?auth_key=565651456-0-0-2368eb6b99a6638ec81201aef0be0557&from=singlemessage&isappinstalled=0
 TVB J2,http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8
 TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
 鳳凰中文,http://14.29.60.80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
@@ -247,6 +247,8 @@ CCTV-国防军事,rtsp://125.88.104.45:554/PLTV/88888895/224/3221228243/10000100
 
 ﻿潮云-香港
 TVB翡翠台,http://api2.iptv888.com/v/tvb.php
+TVB翡翠台,rtmp://hdl51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6
+TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&amp%3BFvSeid=1&amp%3BFsv_ctype=LIVES&amp%3BFsv_otype=1&amp%3BProvider_id=0&amp%3BPcontent_id=8114.ts
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
