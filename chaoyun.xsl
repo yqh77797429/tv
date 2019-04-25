@@ -37,10 +37,10 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
-TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
 TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://bf.kxgkmi.cn/10088/79789.m3u8?auth_key=565651456-0-0-2368eb6b99a6638ec81201aef0be0557&from=singlemessage&isappinstalled=0
+TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
 TVB J2,http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8
 TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
 鳳凰中文,http://14.29.60.80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
