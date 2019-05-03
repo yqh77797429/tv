@@ -22,20 +22,18 @@ TVB J2,http://bf.kxgkmi.cn/10088/79789.m3u8?auth_key=565651456-0-0-2368eb6b99a66
 TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
 TVB J2,http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8
 TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
+鳳凰中文,http://61.179.109.170:80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
 鳳凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 鳳凰中文,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-鳳凰中文,http://live.fengshows.com/hls/shengji.m3u8
-鳳凰中文,http://61.179.109.170:80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
 鳳凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 鳳凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 鳳凰中文,http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8
+鳳凰資訊,http://61.179.109.170:80/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
+鳳凰資訊,http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
 鳳凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 鳳凰資訊,http://183.251.61.197/PLTV/88888888/224/3221225901/index.m3u8
-鳳凰資訊,http://61.179.109.170:80/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
 鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-鳳凰資訊,http://live.fengshows.com/hls/shengji.m3u8
 鳳凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-鳳凰資訊,http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
 鳳凰資訊,http://183.251.61.221/PLTV/88888888/224/3221225901/1.m3u8
 
 ﻿潮云-CCTV
@@ -492,8 +490,8 @@ TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_finance
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
-TVB無綫新聞, http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas.m3u8
-TVB無綫新聞, http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
+TVB無綫新聞,http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas.m3u8
+TVB無綫新聞,http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
 鳳凰香港,http://live.italkdd.com/cds160/hls/channel016/channel016.m3u8
