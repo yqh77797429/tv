@@ -628,7 +628,6 @@ GOODTV美食旅遊,http://live.streamingfast.net/hls-live/goodtv/_definst_/livee
 新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 奥多少儿频道, https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 HBO中文,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-HBO中文,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 HBO中文,tvbus://12Vmx2QXZ2PsV4q86ZJawkfTdcTK88xR1zXgD1VMmDACamvnEr7
 
 ﻿潮云-IPTV
