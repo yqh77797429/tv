@@ -30,6 +30,7 @@ TVB J2,http://h.bertiechina.cn/atv/01kjzcom__redirect__1392.m3u8
 鳳凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 鳳凰中文,http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+鳳凰資訊,http://183.251.61.197/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰資訊,http://61.179.109.170:80/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
 鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 鳳凰資訊,http://live.fengshows.com/hls/shengji.m3u8
@@ -491,8 +492,9 @@ TVB翡翠台,http://api2.iptv888.com/v/tvb.php
 TVB翡翠台,rtmp://hdl51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&amp%3BFvSeid=1&amp%3BFsv_ctype=LIVES&amp%3BFsv_otype=1&amp%3BProvider_id=0&amp%3BPcontent_id=8114.ts
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
 TVB無綫新聞, http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas.m3u8
 TVB無綫新聞, http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
