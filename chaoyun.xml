@@ -18,8 +18,8 @@
 ﻿潮云-香港-常用
 TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
 TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
-TVB J2,http://alp.fmkmkv.cn/tv789/789.m3u8?auth_key=864266827-0-0-95d4683aa23ab6519a72787c8a20241f
-TVB J2,https://livesec.mudu.tv/watch/yhcoxp.m3u8?auth_key=1557516073-419667-0-2b67bbd7c80c7fd0873963d60456599d
+TVB J2,http://alp.mayaali.cn/a789/10000.m3u8?auth_key=1557816701-0-0-984e50cbb652fa502e94875333f4e190
+TVB J2,http://liveplay.laiyin.xyz/live/24338_b74f76bc2a0311e992905cb9018cf0d4.m3u8
 鳳凰中文,http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 鳳凰中文,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
@@ -442,6 +442,8 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
 
 ﻿潮云-广东
+广东体育,rtp://239.20.0.114:2026
+广东体育,rtp://239.10.0.124:1025
 广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/playlist.m3u8
