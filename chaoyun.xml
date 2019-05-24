@@ -52,6 +52,7 @@ CCTV-1综合,http://112.17.40.140/PLTV/88888888/224/3221226527/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8
 CCTV-1综合,http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8
+CCTV-2财经,http://121.31.30.90:8085/ysten-business/live/cctv-2/03.m3u8
 CCTV-2财经,http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
 CCTV-2财经,http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
 CCTV-2财经,http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
@@ -62,9 +63,10 @@ CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index
 CCTV-2财经,http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8?wsSecret=0f883c8649a6b883016f6408d7c80f9d&wsTime=1509347397
 CCTV-2财经,http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
 CCTV-2财经,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv2_2/index.m3u8
-CCTV-3综艺,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227415/index.m3u8
+CCTV-3综艺,http://121.31.30.90:8085/ysten-business/live/cctv-3/03.m3u8
 CCTV-3综艺,http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/1.m3u8/1.m3u8
 CCTV-3综艺,http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+CCTV-3综艺,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227415/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
 CCTV-3综艺,http://183.207.249.5/PLTV/3/224/3221225588/index.m3u8
 CCTV-3综艺,http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
@@ -74,6 +76,7 @@ CCTV-3综艺,http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8
 CCTV-3综艺,http://223.82.250.72/ysten-business/live/cctv-3/1.m3u8
 CCTV-3综艺,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2/index.m3u8
 CCTV-3综艺,http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
+CCTV-4中文国际,http://121.31.30.90:8085/ysten-business/live/cctv-4/03.m3u8
 CCTV-4中文国际,http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8/1.m3u8
 CCTV-4中文国际,http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225590/index.m3u8
@@ -105,6 +108,7 @@ CCTV-5+体育赛事,http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
 CCTV-5+体育赛事,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8
 CCTV-5+体育赛事,http://117.169.120.132:8080/live/hdcctv05plus/playlist.m3u8
 CCTV-5+体育赛事,http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+CCTV-6电影,http://121.31.30.90:8085/ysten-business/live/cctv-6/03.m3u8
 CCTV-6电影,http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
 CCTV-6电影,http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
@@ -118,6 +122,7 @@ CCTV-6电影,http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
 CCTV-6电影,http://live.gansuyunshi.com:9090/live/CCTV6-HD_2000.m3u8
 CCTV-6电影,http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
 CCTV-6电影,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
+CCTV-7军事农业,http://121.31.30.90:8085/ysten-business/live/cctv-7/03.m3u8
 CCTV-7军事农业,http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
 CCTV-7军事农业,http://111.40.205.86/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7军事农业,http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
@@ -125,6 +130,7 @@ CCTV-7军事农业,http://112.17.40.140/PLTV/88888888/224/3221226470/index.m3u8
 CCTV-7军事农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225593/index.m3u8
 CCTV-7军事农业,http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
 CCTV-7军事农业,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv7_2/index.m3u8
+CCTV-8电视剧,http://121.31.30.90:8085/ysten-business/live/cctv-8/03.m3u8
 CCTV-8电视剧,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
 CCTV-8电视剧,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 CCTV-8电视剧,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227304/index.m3u8
@@ -139,11 +145,13 @@ CCTV-8电视剧,http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
 CCTV-8电视剧,http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
 CCTV-8电视剧,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
 CCTV-8电视剧,http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
+CCTV-9纪录,http://121.31.30.90:8085/ysten-business/live/cctv-9/03.m3u8
 CCTV-9纪录,http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
 CCTV-9纪录,http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8
 CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225595/index.m3u8
 CCTV-9纪录,http://112.17.40.140/PLTV/88888888/224/3221226561/index.m3u8
 CCTV-9纪录,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
+CCTV-10科教,http://121.31.30.90:8085/ysten-business/live/cctv-10/03.m3u8
 CCTV-10科教,http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
 CCTV-10科教,http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
 CCTV-10科教,http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8/1.m3u8
@@ -153,6 +161,7 @@ CCTV-10科教,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/322122731
 CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225596/index.m3u8
 CCTV-10科教,http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
 CCTV-10科教,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+CCTV-11戏曲,http://121.31.30.90:8085/ysten-business/live/cctv-11/03.m3u8
 CCTV-11戏曲,http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
 CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11戏曲,http://112.17.40.140/PLTV/88888888/224/3221226554/index.m3u8
@@ -160,6 +169,7 @@ CCTV-11戏曲,http://112.17.40.140/PLTV/88888888/224/3221226560/index.m3u8
 CCTV-11戏曲,http://112.17.40.140/PLTV/88888888/224/3221226219/index.m3u8
 CCTV-11戏曲,http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
 CCTV-11戏曲,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2/index.m3u8
+CCTV-12社会与法,http://121.31.30.90:8085/ysten-business/live/cctv-12/03.m3u8
 CCTV-12社会与法,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
 CCTV-12社会与法,http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/
 CCTV-12社会与法,http://183.207.249.237/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
@@ -171,6 +181,7 @@ CCTV-12社会与法,http://112.17.40.140/PLTV/88888888/224/3221226563/index.m3u8
 CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225598/index.m3u8
 CCTV-12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
 CCTV-12社会与法,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv12_2/index.m3u8
+CCTV-13新闻,http://121.31.30.90:8085/ysten-business/live/cctv-13/03.m3u8
 CCTV-13新闻,http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 CCTV-13新闻,http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
 CCTV-13新闻,http://www.cycatv.cn/public/WXTV03/playlist.m3u8
@@ -181,6 +192,7 @@ CCTV-13新闻,http://klmyyun.chinavas.com/hls/qishi2.m3u8
 CCTV-13新闻,http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
 CCTV-13新闻,http://61.179.109.170:80/live/5/30/7d45721fa54140cb8ea8820d3061d4c0.m3u8?type=web.cloudplay
 CCTV-13新闻,http://27.221.28.33:80/live/5/30/7d45721fa54140cb8ea8820d3061d4c0.m3u8?type=web.cloudplay
+CCTV-14少儿,http://121.31.30.90:8085/ysten-business/live/cctv-14/03.m3u8
 CCTV-14少儿,http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 CCTV-14少儿,http://183.207.248.199/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
 CCTV-14少儿,http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
@@ -188,6 +200,7 @@ CCTV-14少儿,http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/322122720
 CCTV-14少儿,http://112.17.40.140/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-14少儿,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225600/index.m3u8
+CCTV-15音乐,http://121.31.30.90:8085/ysten-business/live/cctv-15/03.m3u8
 CCTV-15音乐,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
 CCTV-15音乐,http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
