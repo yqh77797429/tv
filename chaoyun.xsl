@@ -40,6 +40,7 @@
 TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
 TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://alp.mayaali.cn/a789/10000.m3u8?auth_key=1557816701-0-0-984e50cbb652fa502e94875333f4e190
+TVB J2,http://liveplay.laiyin.xyz/live/24338_66f1c12c6b2511e992905cb9018cf0d4.m3u8
 TVB J2,https://livesec.mudu.tv/watch/yhcoxp.m3u8?auth_key=1558108836-549290-0-7ac8fd5611c1a96677ffcbe2e64aa843
 TVB J2,http://192.240.120.102:8081/live/rec_c20098.m3u8
 鳳凰中文,http://61.179.109.170:80/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=web.cloudplay
