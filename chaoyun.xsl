@@ -37,10 +37,10 @@
 TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
 TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://alp.mayaali.cn/a789/10000.m3u8?auth_key=1557816701-0-0-984e50cbb652fa502e94875333f4e190
-鳳凰中文,http://113.96.131.32/live/5/30/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=m3u8.web.cloudplay&k=e9f339313e7dc0fabcbff631bc
+鳳凰中文,http://171.107.76.46/live/5/60/30089412ecb243f7b6a848a1e4d2a45f.m3u8?type=m3u8.web.cloudplay&k=681d53e6c11452d7067e1799fa17b7c9-7fe1-1559399596&playback=0
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
 鳳凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-鳳凰資訊,http://113.96.131.31/live/5/60/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=m3u8.web.cloudplay&k=e9f339313e7dc0fabcbff631bc35bf9b-490e-1559315481&playback=0
+鳳凰資訊,http://171.107.76.47/live/5/60/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=m3u8.web.cloudplay&k=79bf0cd3a5a204bb11b5ce0a97305273-0519-1559399295&playback=0
 鳳凰資訊,http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
