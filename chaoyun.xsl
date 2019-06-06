@@ -37,7 +37,7 @@
 TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
 TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://alp.mayaali.cn/a789/10000.m3u8?auth_key=1557816701-0-0-984e50cbb652fa502e94875333f4e190
-TVB J2,http://t1.leys8.com/tv/gt4/html?id=178347
+TVB J2,http://t1.leys8.com/tv/gt4.html?id=178347
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
 鳳凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 鳳凰資訊,http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
