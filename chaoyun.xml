@@ -492,9 +492,7 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 
 ﻿潮云-香港
-TVB翡翠台,http://api2.iptv888.com/v/tvb.php
-TVB翡翠台,rtmp://hdl51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6
-TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&amp%3BFvSeid=1&amp%3BFsv_ctype=LIVES&amp%3BFsv_otype=1&amp%3BProvider_id=0&amp%3BPcontent_id=8114.ts
+TVB翡翠台,http://t1.leys8.com/tv/gt2.html?id=XGFeiCui
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
@@ -541,15 +539,8 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
 ﻿潮云-台湾
-民視新聞,http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
-民視新聞,http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
-民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-台視新聞,http://live.italkdd.com/cds160/hls/channel006/channel006.m3u8
-台視新聞,http://live.italkdd.com/cds160/hls/channel011/channel011.m3u8
-台視新聞,http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
-台視新聞,http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
-台視新聞,http://live.italkdd.com/ts142/channel_065.m3u8
+台視HD,http://t1.leys8.com/tv/gt2.html?id=TTV
 超視HD,http://live.italkdd.com/cds160/hls/channel018/channel018.m3u8
 超視HD,http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
 華視咨訊台,http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
