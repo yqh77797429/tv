@@ -38,8 +38,12 @@ TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
 TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://alp.mayaali.cn/a789/10000.m3u8?auth_key=1557816701-0-0-984e50cbb652fa502e94875333f4e190
 TVB J2,http://t1.leys8.com/tv/gt4.html?id=178347
+鳳凰中文,http://ydn10.b-cdn.net/101850563067001.m3u8
+鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://t1.leys8.com/tv/gt5.html?id=PhoenixTVHD
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
+鳳凰資訊,http://cdn8.easylifewell.com/fhzx.m3u8
+鳳凰資訊,http://ydn15.venomium.com/101850563186001.m3u8
 鳳凰資訊,http://t1.leys8.com/tv/gt5.html?id=PhoenixinfoTVHD
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
