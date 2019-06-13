@@ -41,8 +41,8 @@ TVB J2,http://t1.leys8.com/tv/gt4.html?id=178347
 TVB J2,http://hls2.liveshow.lss-user.baidubce.com/live/c18bccfb18cc4da3bd09ada7e0633d82/playlist.m3u8
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzw/
-鳳凰資訊,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzx/
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+鳳凰資訊,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzx/
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
 广东体育,rtsp://125.88.53.18:554/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
