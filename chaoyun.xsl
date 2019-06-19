@@ -39,9 +39,12 @@ TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://alp.mayaali.cn/a789/10000.m3u8?auth_key=1557816701-0-0-984e50cbb652fa502e94875333f4e190
 TVB J2,http://t1.leys8.com/tv/gt4.html?id=178347
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
+鳳凰中文,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 鳳凰中文,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzw/
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+鳳凰資訊,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 鳳凰資訊,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzx/
 广东体育,rtsp://125.88.53.18:554/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
 广东体育,rtsp://125.88.53.18:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
@@ -216,6 +219,7 @@ CCTV-中学生,rtsp://125.88.53.18:554/PLTV/88888905/224/3221228327/100001000000
 CCTV-中学生,rtsp://125.88.54.18:554/PLTV/88888905/224/3221228327/10000100000000060000000007935405_0.smil
 CCTV-女性时尚,rtsp://125.88.53.18:554/PLTV/88888905/224/3221228315/10000100000000060000000007935395_0.smil
 CCTV-女性时尚,rtsp://125.88.54.18:554/PLTV/88888905/224/3221228315/10000100000000060000000007935395_0.smil
+CCTV-4K超高清,http://zb.lxb666.xyz/gzzb.php?id=cctv4k
 
 ﻿潮云-卫视
 湖南卫视,rtsp://125.88.53.18:554/PLTV/88888905/224/3221227581/10000100000000060000000004462928_0.smil
@@ -633,8 +637,7 @@ CCTV-女性时尚,rtsp://125.88.54.18:554/PLTV/88888905/224/3221228315/100001000
 粤TV-极K纪录,rtsp://125.88.54.18:554/PLTV/88888905/224/3221228304/10000100000000060000000008188821_0.smil
 
 ﻿潮云-香港
-TVB翡翠台,http://api2.iptv888.com/v/tvb.php
-TVB翡翠台,http://t1.leys8.com/tv/gt2.html?id=XGFeiCui
+TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
@@ -644,9 +647,7 @@ TVB無綫新聞,http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas
 TVB無綫新聞,http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
-鳳凰香港,http://live.italkdd.com/cds160/hls/channel016/channel016.m3u8
-鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-鳳凰香港,http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰美洲,http://live.italkdd.com/cds160/hls/channel001/channel001.m3u8
 鳳凰美洲,http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
@@ -656,6 +657,8 @@ TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobi
 星衛電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 星空衛視,http://222.207.48.30/hls/startv.m3u8
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+星空衛視,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+星空衛視,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 新影视,http://dlhls.live.cnlive.com:1935/cdn/xinyingshi/chunklist_w648453147.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
@@ -671,6 +674,7 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 
 ﻿潮云-澳门
 澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳亞衛視,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 澳門衛視,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳門衛視,http://live.mastvnet.com/iVx460D/500/live.m3u8
 澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
@@ -683,53 +687,42 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 ﻿潮云-台湾
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 台視HD,http://t1.leys8.com/tv/gt2.html?id=TTV
-超視HD,http://live.italkdd.com/cds160/hls/channel018/channel018.m3u8
-超視HD,http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
-華視咨訊台,http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
-華視咨訊台,http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
 壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-壹電視新聞,http://ax.micaesoft.com/YMitv/YMITV_CN_TWexttv_2.m3u8
-壹電視新聞,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
 壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist_w.m3u8
 壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/playlist.m3u8
-非凡新聞,http://live.italkdd.com/cds160/hls/channel013/channel013.m3u8
-非凡新聞,http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 非凡新聞,http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
 寰宇新聞,http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-三立台灣,http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
-三立台灣,http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
 三立台灣,rtmp://wv4.ts33.net/sat/tv292
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
 TVBS歡樂,http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/index.m3u8
-新聞綜合,http://live.italkdd.com/cds160/hls/channel017/channel017.m3u8
-新聞綜合,http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
-中旺電視,http://live.italkdd.com/cds160/hls/channel008/channel008.m3u8
-中旺電視,http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
-東森美洲新聞,http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
-東森美洲新聞,http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
-東森美洲台,http://live.italkdd.com/cds160/hls/channel020/channel020.m3u8
-東森美洲台,http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
-亞洲旅遊台,http://live.italkdd.com/cds160/hls/channel007/channel007.m3u8
-亞洲旅遊台,http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
-大愛電視,http://live.italkdd.com/cds160/hls/channel015/channel015.m3u8
-大愛電視,http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
-YOYO TV,http://live.italkdd.com/cds160/hls/channel025/channel025.m3u8
-YOYO TV,http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
-600新聞,http://live.italkdd.com/cds160/hls/channel023/channel023.m3u8
-600新聞,http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-松视1,http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
-松视2,http://185.216.119.139:2015/ftvs.php?channelid=55a8b774a960e4dc08d211de&channeltype=1
-松视3,http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
-HUSTLER TV,http://server3.iptvsolution.org:80/live?channelId=270&uid=684&deviceMac=00:1A:79:2C:20:33
-XXL,http://server3.iptvsolution.org:80/live?channelId=272&uid=684&deviceMac=00:1A:79:2C:20:33
-XXOO,http://server3.iptvsolution.org:80/live?channelId=271&uid=684&deviceMac=00:1A:79:2C:20:33
-X TV,http://tvmaksi.iptvposokuca.info:80/live?channelId=39&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-BRAZZERS,http://tvmaksi.iptvposokuca.info:80/live?channelId=109&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-PENTHOUSE GOLD,http://tvmaksi.iptvposokuca.info:80/live?channelId=129&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+Jasmin TV(18+),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Jasmin TV HD(18+),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Miami TV-Colombia(18+),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
+Miami TV-Colombia(18+),http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+Miami TV-Jenny Live(18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+Miami TV-Jenny Live(18+),http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+O-la-la(18+),http://37.205.94.97:81/udp/239.54.6.71:1234
+Русская ночь(18+),http://37.205.94.97:81/udp/239.54.6.159:1234
+Big Ass(18+),http://live.redtraffic.xyz/bigass.m3u8
+Big Dick(18+),http://live.redtraffic.xyz/bigdick.m3u8
+Big Tits(18+),http://live.redtraffic.xyz/bigtits.m3u8
+Blowjob(18+),http://live.redtraffic.xyz/blowjob.m3u8
+Cuckold(18+),http://live.redtraffic.xyz/cuckold.m3u8
+Fetish(18+),http://live.redtraffic.xyz/fetish.m3u8
+Hardcore(18+),http://live.redtraffic.xyz/hardcore.m3u8
+Interracial(18+),http://live.redtraffic.xyz/interracial.m3u8
+Latina(18+),http://live.redtraffic.xyz/latina.m3u8
+Lesbian(18+),http://live.redtraffic.xyz/lesbian.m3u8
+MILF(18+),http://live.redtraffic.xyz/milf.m3u8
+POV(18+),http://live.redtraffic.xyz/pov.m3u8
+Pornstar(18+),http://live.redtraffic.xyz/pornstar.m3u8
+Russian(18+),http://live.redtraffic.xyz/russian.m3u8
+Teen(18+),http://live.redtraffic.xyz/teen.m3u8
+Threesome(18+),http://live.redtraffic.xyz/threesome.m3u8
 GOODTV-1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 GOODTV-1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOODTV-1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
