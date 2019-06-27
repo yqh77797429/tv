@@ -34,11 +34,11 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
+TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
+TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://alp.mayaali.cn/a789/10000.m3u8?auth_key=1557816701-0-0-984e50cbb652fa502e94875333f4e190
 TVB J2,http://t1.leys8.com/tv/gt4.html?id=178347
 TVB J2,http://116.207.131.13/j2app/mylive__redirect__40894.m3u8
-TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
-TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
