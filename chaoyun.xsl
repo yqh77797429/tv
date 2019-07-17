@@ -37,8 +37,8 @@
 TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 TVB J2,http://t1.leys8.com/tv/gt4.html?id=178347
 TVB J2,http://137.175.30.100:888/v/md.php?id=178347
-TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
-TVB J2,http://h.kxgkmi.cn/qq133065988/hkj2__redirect__1392.m3u8
+TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
+TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://h.yzbwdq.com/j2app/mylive.m3u8?mobile=true
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
