@@ -34,7 +34,7 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
-TVB J2,http://137.175.30.100:888/v/hk.php?token=4Yw7lHDqbeTMDeReCXywfLCs&id=j2b
+TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 TVB J2,http://t1.leys8.com/tv/gt4.html?id=178347
 TVB J2,http://137.175.30.100:888/v/md.php?id=178347
 TVB J2,http://h.kxgkmi.cn/atv/01kjzcom.m3u8
