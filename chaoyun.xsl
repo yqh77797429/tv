@@ -36,6 +36,7 @@
 ﻿潮云-香港
 TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 TVB J2,http://137.175.30.100:888/v/md.php?id=178347
+TVB J2,https://livesec.mudu.tv/watch/yhcoxp_lsd.m3u8?auth_key=1563366175-726073-0-88f50e7d38e220ae6fdcd2855a363ba6
 TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,http://bf.ygsaeq.cn/10088/j2tv.m3u8?auth_key=1581268666-0-0-dde1ff48abfe26aa3d3e0f9ca7164cd5
