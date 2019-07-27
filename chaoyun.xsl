@@ -34,13 +34,14 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
-TVB J2,http://devlivepull.migucloud.com/live/4e5a64db2ac845e4823f063d6aa29cc2/playlist.m3u8?wsSession=cc3ec9b0e734f244dc36e0dc-156406099005642&wsIPSercert=dcb45ec5f14abe961bd63d53e8cefc56&wsMonitor=0
-TVB J2,http://137.175.30.100:888/v/md.php?id=178347
+TVB J2,http://liveplay.laiyin.xyz/live/24338_8a1bbd89845111e892905cb9018cf0d4.m3u8?txSecret=23781920c0dc60d14e530139175bb3e0&txTime=5D3700A6
 TVB J2,http://bf.ygsaeq.cn/10088/j2tv.m3u8?auth_key=1581268666-0-0-dde1ff48abfe26aa3d3e0f9ca7164cd5
 TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
+TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
 TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
+TVB J2,http://137.175.30.100:888/v/md.php?id=178347
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzw/
 鳳凰中文,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
