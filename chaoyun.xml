@@ -521,18 +521,12 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
 ﻿潮云-台湾
+民視,http://60.251.37.44:8080/live/super7659.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-台視HD,http://t1.leys8.com/tv/gt2.html?id=TTV
-壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist_w.m3u8
-壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/playlist.m3u8
-非凡新聞,http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
-寰宇新聞,http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8
-三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-三立台灣,rtmp://wv4.ts33.net/sat/tv292
-TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
-TVBS歡樂,http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/index.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 Jasmin TV(18+),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
