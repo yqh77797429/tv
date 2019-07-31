@@ -631,6 +631,7 @@ TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB星河台,http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
@@ -666,7 +667,12 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
 ﻿潮云-台湾
+民視,http://60.251.37.44:8080/live/super7659.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 Jasmin TV(18+),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
