@@ -67,10 +67,7 @@ CCTV-1综合,http://125.88.82.39:30001/PLTV/88888905/224/3221227518/1.m3u8
 CCTV-1综合,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2_hd/index.m3u8
 CCTV-1综合,http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=029&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-2财经,http://125.88.57.21:30001/PLTV/88888905/224/3221227582/1.m3u8
 CCTV-2财经,http://125.88.55.18:30001/PLTV/88888956/224/3221227666/1.m3u8
-CCTV-2财经,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227582/1.m3u8
-CCTV-2财经,http://125.88.82.39:30001/PLTV/88888905/224/3221227582/1.m3u8
 CCTV-2财经,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
 CCTV-2财经,http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
 CCTV-2财经,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=010&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -85,11 +82,10 @@ CCTV-4中文国际,http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
 CCTV-4中文国际,http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
 CCTV-4中文国际,http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
 CCTV-4中文国际,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=026&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-5体育,http://cctvcnch5c.v.wscdns.com/live/cctv5_2/index.m3u8
 CCTV-5体育,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 CCTV-5体育,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
 CCTV-5体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=031&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-5体育,http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+CCTV-5体育,http://cctvcnch5c.v.wscdns.com/live/cctv5_2/index.m3u8
 CCTV-5+体育赛事,http://125.88.57.21:30001/PLTV/88888905/224/3221227505/1.m3u8
 CCTV-5+体育赛事,http://125.88.55.18:30001/PLTV/88888956/224/3221227870/1.m3u8
 CCTV-5+体育赛事,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227505/1.m3u8
@@ -111,16 +107,10 @@ CCTV-8电视剧,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
 CCTV-8电视剧,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 CCTV-8电视剧,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=032&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-CCTV-9纪实,http://125.88.57.21:30001/PLTV/88888905/224/3221227623/1.m3u8
 CCTV-9纪实,http://125.88.55.18:30001/PLTV/88888956/224/3221227669/1.m3u8
-CCTV-9纪实,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227623/1.m3u8
-CCTV-9纪实,http://125.88.82.39:30001/PLTV/88888905/224/3221227623/1.m3u8
 CCTV-9纪实,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv9_2/index.m3u8
 CCTV-9纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=033&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-10科教,http://125.88.57.21:30001/PLTV/88888905/224/3221227626/1.m3u8
 CCTV-10科教,http://125.88.55.18:30001/PLTV/88888956/224/3221227698/1.m3u8
-CCTV-10科教,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227626/1.m3u8
-CCTV-10科教,http://125.88.82.39:30001/PLTV/88888905/224/3221227626/1.m3u8
 CCTV-10科教,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv10_2_hd/index.m3u8
 CCTV-10科教,http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
 CCTV-10科教,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=004&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -128,10 +118,7 @@ CCTV-11戏曲,http://125.88.55.18:30001/PLTV/88888956/224/3221227672/1.m3u8
 CCTV-11戏曲,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2_hd/index.m3u8
 CCTV-11戏曲,http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
 CCTV-11戏曲,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=104&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-12社会与法,http://125.88.57.21:30001/PLTV/88888905/224/3221227640/1.m3u8
 CCTV-12社会与法,http://125.88.55.18:30001/PLTV/88888956/224/3221227724/1.m3u8
-CCTV-12社会与法,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227640/1.m3u8
-CCTV-12社会与法,http://125.88.82.39:30001/PLTV/88888905/224/3221227640/1.m3u8
 CCTV-12社会与法,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv12_2_hd/index.m3u8
 CCTV-12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
 CCTV-12社会与法,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -141,10 +128,7 @@ CCTV-13新闻,http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
 CCTV-13新闻,http://www.cycatv.cn/public/WXTV03/playlist.m3u8
 CCTV-13新闻,http://klmyyun.chinavas.com/hls/qishi2.m3u8
 CCTV-13新闻,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-14少儿,http://125.88.57.21:30001/PLTV/88888905/224/3221227637/1.m3u8
 CCTV-14少儿,http://125.88.55.18:30001/PLTV/88888956/224/3221227675/1.m3u8
-CCTV-14少儿,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227637/1.m3u8
-CCTV-14少儿,http://125.88.82.39:30001/PLTV/88888905/224/3221227637/1.m3u8
 CCTV-14少儿,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv14_2/index.m3u8
 CCTV-14少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=035&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-15音乐,http://125.88.55.18:30001/PLTV/88888956/224/3221227727/1.m3u8
@@ -152,10 +136,10 @@ CCTV-15音乐,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
 CCTV-15音乐,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv15_2_hd/index.m3u8
 CCTV-15音乐,http://www.cycatv.cn/public/WXTV08/playlist.m3u8
 CCTV-15音乐,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=134&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 CCTV-17农业农村,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv17_2_hd/index.m3u8
 CCTV-17农业农村,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv17_2/index.m3u8
 CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
+CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 
 ﻿潮云-卫视
 湖南卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227483/1.m3u8
