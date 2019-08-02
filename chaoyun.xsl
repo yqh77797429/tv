@@ -101,13 +101,10 @@ CCTV-6电影,http://223.110.241.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
 CCTV-6电影,http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
 CCTV-6电影,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=011&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-CCTV-7国防军事,http://125.88.57.21:30001/PLTV/88888905/224/3221227579/1.m3u8
 CCTV-7国防军事,http://125.88.55.18:30001/PLTV/88888956/224/3221227695/1.m3u8
-CCTV-7国防军事,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227579/1.m3u8
-CCTV-7国防军事,http://125.88.82.39:30001/PLTV/88888905/224/3221227579/1.m3u8
-CCTV-7国防军事,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=028&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-7国防军事,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv7_2_hd/index.m3u8
 CCTV-7国防军事,http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
+CCTV-7国防军事,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=028&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-8电视剧,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2_hd/index.m3u8
 CCTV-8电视剧,http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
 CCTV-8电视剧,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
