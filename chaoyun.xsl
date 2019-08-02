@@ -43,9 +43,11 @@ TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 TVB J2,http://137.175.30.100:888/v/md.php?id=178347
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzw/
+鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
 鳳凰中文,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 鳳凰資訊,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzx/
+鳳凰資訊,http://124.232.231.247:6610/000000001001/201500000231/index.m3u8?
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 鳳凰資訊,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
@@ -163,6 +165,7 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 东方卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=022&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pconte
+安徽卫视,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=002&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 北京卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227508/1.m3u8
 北京卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227678/1.m3u8
@@ -332,6 +335,7 @@ TVB星河台,http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 ViuTV,http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+鳳凰電影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 美亞電影,http://v.wangjiuling.com/tv?sv=1l1ae79Sg0iVbI7O4Vyy
 星衛電影,http://v.wangjiuling.com/tv?sv=W4MvWrMIExuQDIwbQRoo
@@ -369,11 +373,24 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 
 ﻿潮云-台湾
 民視,http://60.251.37.44:8080/live/super7659.m3u8
+民視,http://v.wangjiuling.com/tv?sv=YE9baW8iqMiOAfl67pqq
+民視,http://v.wangjiuling.com/tv?sv=QYDdab8SAoFEPcJ8nMzQ
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視新聞,http://v.wangjiuling.com/tv?sv=qgQe4LXivlClBURXolgv
+華視新聞,http://v.wangjiuling.com/tv?sv=oMrVLWNH2lCAjcgnMlL1
+台視財經,http://v.wangjiuling.com/tv?sv=9OdwXxbSvJCywCK98OaP
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
+东森新聞,http://61.216.10.122:4078/VideoInput/play.ts
+中天娛樂,http://122.146.68.116:4007/VideoInput/play.ts
+中天綜合,http://60.250.69.26:8080/live/cti9785.m3u8
+八大綜合,http://60.251.37.44:8080/live/gtv7659.m3u8
+八大第一,http://60.251.37.44:8080/live/gtvfirst7659.m3u8
+龙华电影,http://v.wangjiuling.com/tv?sv=pgjPb7LfqlirNCdNw7VE
+龙华洋片,http://v.wangjiuling.com/tv?sv=vgymNJ2Sv9COQfWQO3bX
+緯來育乐,http://60.250.69.26:8080/live/vlhappy8976.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 Jasmin TV(18+),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
@@ -424,6 +441,8 @@ GOODTV美食旅遊,http://live.streamingfast.net/hls-live/goodtv/_definst_/livee
 奥多少儿频道, https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 HBO中文,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 HBO中文,tvbus://12Vmx2QXZ2PsV4q86ZJawkfTdcTK88xR1zXgD1VMmDACamvnEr7
+FOX,http://61.216.10.122:4015/VideoInput/play.ts
+Disney Channel Asia,http://61.216.10.122:4019/VideoInput/play.ts
 
 ﻿潮云-轮播
 林正英电影,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
