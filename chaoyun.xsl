@@ -187,7 +187,6 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 安徽卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=002&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 北京卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227508/1.m3u8
-北京卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227678/1.m3u8
 北京卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227508/1.m3u8
 北京卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227508/1.m3u8
 北京卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=030&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -232,10 +231,7 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 重庆卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227690/1.m3u8
 重庆卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/chongqing_2_hd.m3u8
 重庆卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=016&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-四川卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227901/1.m3u8
 四川卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227687/1.m3u8
-四川卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227901/1.m3u8
-四川卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227901/1.m3u8
 四川卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/sichuan_2_hd.m3u8
 四川卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=003&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 东南卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227719/1.m3u8
@@ -243,9 +239,9 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 东南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=023&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 厦门卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227760/1.m3u8
 厦门卫视,http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
-广西卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227693/1.m3u8
 广西卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/guangxi_2_hd.m3u8
 广西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=138&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广西卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227693/1.m3u8
 贵州卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227713/1.m3u8
 贵州卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/guizhou_2_hd.m3u8
 贵州卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=041&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -298,7 +294,7 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 旅游卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=112&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 兵团卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227705/1.m3u8
 兵团卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=050&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-兵延边卫视,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 康巴卫视,http://scgctvshow.sctv.com/sdlive/kangba/3.m3u8
 卡酷少儿,http://125.88.55.18:30001/PLTV/88888956/224/3221227734/1.m3u8
 卡酷少儿,http://zb.lxb666.xyz/gzzb.php?id=kaku
@@ -307,7 +303,6 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 北京纪实,http://125.88.57.21:30001/PLTV/88888905/224/3221227555/1.m3u8
 北京纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=158&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-金鹰纪实,http://125.88.57.21:30001/PLTV/88888905/224/3221227932/1.m3u8
 金鹰纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=176&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 ﻿潮云-广东
