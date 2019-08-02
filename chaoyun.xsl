@@ -151,8 +151,8 @@ CCTV-14少儿,http://125.88.82.39:30001/PLTV/88888905/224/3221227637/1.m3u8
 CCTV-14少儿,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv14_2/index.m3u8
 CCTV-14少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=035&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-15音乐,http://125.88.55.18:30001/PLTV/88888956/224/3221227727/1.m3u8
-CCTV-15音乐,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv15_2_hd/index.m3u8
 CCTV-15音乐,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
+CCTV-15音乐,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv15_2_hd/index.m3u8
 CCTV-15音乐,http://www.cycatv.cn/public/WXTV08/playlist.m3u8
 CCTV-15音乐,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=134&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
@@ -169,8 +169,8 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 浙江卫视,http://125.88.53.18:30001/PLTV/88888956/224/3221227987/1.m3u8
 浙江卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227511/1.m3u8
 浙江卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227511/1.m3u8
-浙江卫视,http://125.88.104.45:30001/PLTV/88888956/224/3221227987/2.m3u8
-浙江卫视,http://183.59.135.172:30001/PLTV/88888956/224/3221227987/2.m3u8
+浙江卫视,http://125.88.104.45:30001/PLTV/88888956/224/3221227987/1.m3u8
+浙江卫视,http://183.59.135.172:30001/PLTV/88888956/224/3221227987/1.m3u8
 浙江卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=013&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 江苏卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227492/1.m3u8
 江苏卫视,http://125.88.63.33:30001/PLTV/88888905/224/3221227492/1.m3u8
