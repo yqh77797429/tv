@@ -334,8 +334,6 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 新闻频道,http://nclive.grtn.cn/xwpd/sd/live.m3u8
 房产频道,http://nclive.grtn.cn/fcpd/playlist.m3u8
 房产频道,http://nclive.grtn.cn/fcpd/sd/live.m3u8
-汽车会展,http://nclive.grtn.cn/qchzpd/playlist.m3u8
-汽车会展,http://nclive.grtn.cn/qchzpd/sd/live.m3u8
 岭南戏曲,rtsp://125.88.54.18/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=TGtQK8mpbh/UaBAk/bdbODCNV6QoIhvx2aHRi4dLhLX2UglvyJcldLao2ORHbSsLqbie3toDnzRsqdN7T/b7X7v2Qu93RNtMHw7NXnmSy1W/3drkZ/Dy5Qb4Czw8Ex6EBlKSFKAWQ93IqM8mMlpFAA==:20190731005231,06684043365,116.27.25.143,20190731005231,02000001000000050000000000000385,AD70EEE0C635D2FFACF56D6767E57B92,-1,0,1,,,2,,,,2,END
 深圳体育,http://www.szmgiptv.com:14436/hls/10.m3u8
 深圳都市,http://www.szmgiptv.com:14436/hls/8.m3u8
