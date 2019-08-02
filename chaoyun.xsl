@@ -183,6 +183,8 @@ CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 东方卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/dongfang_2_hd.m3u8
 东方卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=022&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pconte
+安徽卫视,http://118.123.60.84:8006/syhjcms_hls/10000100201705020000001000000001
+安徽卫视,http://118.123.60.17:8112/syhjcms_hls/10000100201705020000001000000001
 安徽卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/anhui_2_hd.m3u8
 安徽卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=002&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
