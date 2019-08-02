@@ -165,6 +165,7 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 东方卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=022&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pconte
+安徽卫视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000148.m3u8
 安徽卫视,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=002&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 北京卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227508/1.m3u8
