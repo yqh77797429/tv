@@ -41,9 +41,9 @@ TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
 TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 TVB J2,http://137.175.30.100:888/v/md.php?id=178347
-鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzw/
 鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
+鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 鳳凰資訊,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzx/
