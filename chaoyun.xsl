@@ -34,13 +34,13 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
+TVB J2,http://v.wangjiuling.com/tv?sv=qVYhvlClBURXlDyy
 TVB J2,http://bf.ygsaeq.cn/10088/j2tv.m3u8?auth_key=1581268666-0-0-dde1ff48abfe26aa3d3e0f9ca7164cd5
 TVB J2,http://h.ygsaeq.cn/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
 TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
-TVB J2,http://137.175.30.100:888/v/md.php?id=178347
 鳳凰中文,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzw/
 鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
