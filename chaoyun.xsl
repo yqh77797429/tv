@@ -413,30 +413,6 @@ TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
 緯來育乐,http://60.250.69.26:8080/live/vlhappy8976.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-Jasmin TV(18+),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-Jasmin TV HD(18+),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Miami TV-Colombia(18+),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
-Miami TV-Colombia(18+),http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-Miami TV-Jenny Live(18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-Miami TV-Jenny Live(18+),http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-O-la-la(18+),http://37.205.94.97:81/udp/239.54.6.71:1234
-Русская ночь(18+),http://37.205.94.97:81/udp/239.54.6.159:1234
-Big Ass(18+),http://live.redtraffic.xyz/bigass.m3u8
-Big Dick(18+),http://live.redtraffic.xyz/bigdick.m3u8
-Big Tits(18+),http://live.redtraffic.xyz/bigtits.m3u8
-Blowjob(18+),http://live.redtraffic.xyz/blowjob.m3u8
-Cuckold(18+),http://live.redtraffic.xyz/cuckold.m3u8
-Fetish(18+),http://live.redtraffic.xyz/fetish.m3u8
-Hardcore(18+),http://live.redtraffic.xyz/hardcore.m3u8
-Interracial(18+),http://live.redtraffic.xyz/interracial.m3u8
-Latina(18+),http://live.redtraffic.xyz/latina.m3u8
-Lesbian(18+),http://live.redtraffic.xyz/lesbian.m3u8
-MILF(18+),http://live.redtraffic.xyz/milf.m3u8
-POV(18+),http://live.redtraffic.xyz/pov.m3u8
-Pornstar(18+),http://live.redtraffic.xyz/pornstar.m3u8
-Russian(18+),http://live.redtraffic.xyz/russian.m3u8
-Teen(18+),http://live.redtraffic.xyz/teen.m3u8
-Threesome(18+),http://live.redtraffic.xyz/threesome.m3u8
 GOODTV-1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 GOODTV-1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOODTV-1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
