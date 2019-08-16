@@ -351,6 +351,7 @@ CCTV怀旧剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 
 ﻿潮云-香港
+TVB翡翠台,http://hlslive.qyvideo.net/live/92e15347c4cb44d2a7965c0b71d5c1a0/index.m3u8
 TVB翡翠台,http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
