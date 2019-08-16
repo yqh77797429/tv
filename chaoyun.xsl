@@ -28,13 +28,13 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
-TVB J2,http://v.wangjiuling.com/tv?sv=qVYhvlClBURXlDyy
 TVB J2,http://bf.ygsaeq.cn/10088/j2tv.m3u8?auth_key=1581268666-0-0-dde1ff48abfe26aa3d3e0f9ca7164cd5
 TVB J2,http://h.ygsaeq.cn/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
 TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
+TVB J2,http://v.wangjiuling.com/tv?sv=qVYhvlClBURXlDyy
 TVB J2,http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
 鳳凰中文,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzw/
 鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
@@ -353,40 +353,30 @@ CCTV怀旧剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.
 
 ﻿潮云-香港
 TVB翡翠台,http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
-TVB翡翠台,http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-TVB無綫財經,http://v.wangjiuling.com/tv?sv=2vXUMwuqdU0YP1AA
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
-TVB無綫新聞,http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
-TVB無綫新聞,http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
 TVB無綫新聞,http://c01.live.aliyuncdn.sharkselection.com/live/aa07dsdsadsdas.m3u8
 TVB無綫新聞,http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
-TVB明珠台,http://v.wangjiuling.com/tv?sv=1qPIg0iVbI7exj66
-TVB明珠台,http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB星河台,http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-ViuTV,http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 鳳凰電影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-美亞電影,http://v.wangjiuling.com/tv?sv=1l1ae79Sg0iVbI7O4Vyy
-星衛電影,http://v.wangjiuling.com/tv?sv=W4MvWrMIExuQDIwbQRoo
 星衛電影,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 星空衛視,http://222.207.48.30/hls/startv.m3u8
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 新影视,http://dlhls.live.cnlive.com:1935/cdn/xinyingshi/chunklist_w648453147.m3u8
-RHK-31電視台,http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
@@ -414,13 +404,7 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 
 ﻿潮云-台湾
 民視,http://60.251.37.44:8080/live/super7659.m3u8
-民視,http://v.wangjiuling.com/tv?sv=YE9baW8iqMiOAfl67pqq
-民視,http://v.wangjiuling.com/tv?sv=QYDdab8SAoFEPcJ8nMzQ
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民視新聞,http://v.wangjiuling.com/tv?sv=31qNdeBTonuz1hwDAQ33
-民視新聞,http://v.wangjiuling.com/tv?sv=qgQe4LXivlClBURXolgv
-華視新聞,http://v.wangjiuling.com/tv?sv=oMrVLWNH2lCAjcgnMlL1
-台視財經,http://v.wangjiuling.com/tv?sv=9OdwXxbSvJCywCK98OaP
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
@@ -430,8 +414,6 @@ TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
 中天綜合,http://60.250.69.26:8080/live/cti9785.m3u8
 八大綜合,http://60.251.37.44:8080/live/gtv7659.m3u8
 八大第一,http://60.251.37.44:8080/live/gtvfirst7659.m3u8
-龙华电影,http://v.wangjiuling.com/tv?sv=pgjPb7LfqlirNCdNw7VE
-龙华洋片,http://v.wangjiuling.com/tv?sv=vgymNJ2Sv9COQfWQO3bX
 緯來育乐,http://60.250.69.26:8080/live/vlhappy8976.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
