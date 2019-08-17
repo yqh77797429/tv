@@ -66,6 +66,7 @@ CCTV-2财经,http://125.88.55.18:30001/PLTV/88888956/224/3221227666/1.m3u8
 CCTV-2财经,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
 CCTV-2财经,http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
 CCTV-2财经,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=010&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-3综艺,http://sdlqx.chinashadt.com:2036/live/CCTV3.stream/playlist.m3u8
 CCTV-3综艺,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2_hd/index.m3u8
 CCTV-3综艺,http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
 CCTV-3综艺,http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
@@ -78,6 +79,7 @@ CCTV-4中文国际,http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
 CCTV-4中文国际,http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
 CCTV-4中文国际,http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
 CCTV-4中文国际,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=026&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-5体育,http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8
 CCTV-5体育,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 CCTV-5体育,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
 CCTV-5体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=031&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -87,6 +89,7 @@ CCTV-5+体育赛事,http://125.88.55.18:30001/PLTV/88888956/224/3221227870/1.m3u
 CCTV-5+体育赛事,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227505/1.m3u8
 CCTV-5+体育赛事,http://125.88.82.39:30001/PLTV/88888905/224/3221227505/1.m3u8
 CCTV-5+体育赛事,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=036&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-6电影,http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
 CCTV-6电影,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv6_2_hd/index.m3u8
 CCTV-6电影,http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
 CCTV-6电影,http://223.110.241.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
@@ -119,6 +122,7 @@ CCTV-12社会与法,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv12_2_hd/ind
 CCTV-12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
 CCTV-12社会与法,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-13新闻,http://125.88.55.18:30001/PLTV/88888956/224/3221227701/1.m3u8
+CCTV-13新闻,http://hbhl.chinashadt.com:2036/live/10005.stream_360p/playlist.m3u8
 CCTV-13新闻,http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 CCTV-13新闻,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv13_2_hd/index.m3u8
 CCTV-13新闻,http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
@@ -155,6 +159,7 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 江苏卫视,http://125.88.63.33:30001/PLTV/88888905/224/3221227492/1.m3u8
 江苏卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227492/1.m3u8
 江苏卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227492/1.m3u8
+江苏卫视,http://live2.plus.hebtv.com/jsws/sd/live.m3u8
 江苏卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=005&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 东方卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://125.88.63.33:30001/PLTV/88888905/224/3221227520/1.m3u8
@@ -235,6 +240,7 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 贵州卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/guizhou_2_hd.m3u8
 贵州卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=041&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 河南卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227739/1.m3u8
+河南卫视,http://live2.plus.hebtv.com/hnws/sd/live.m3u8
 河南卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 河南卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/henan_2_hd.m3u8
 河南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=019&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
