@@ -146,6 +146,7 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 湖南卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227483/1.m3u8
 湖南卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227483/1.m3u8
 湖南卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227483/1.m3u8
+湖南卫视,http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 湖南卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
 湖南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 浙江卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227511/1.m3u8
@@ -236,6 +237,7 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 广西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=138&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广西卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227693/1.m3u8
 贵州卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227713/1.m3u8
+贵州卫视,http://live2.plus.hebtv.com/gzws/sd/live.m3u8
 贵州卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/guizhou_2_hd.m3u8
 贵州卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=041&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -252,11 +254,13 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 山西卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227696/1.m3u8
 山西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=144&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 陕西卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227722/1.m3u8
+陕西卫视,http://stream.snrtv.com/sxtvs-star.m3u8
 陕西卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/shan3xi_2_hd.m3u8
 甘肃卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227731/1.m3u8
 甘肃卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/gansu_2_hd.m3u8
 甘肃卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=142&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 吉林卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227745/1.m3u8
+吉林卫视,http://live2.plus.hebtv.com/jlws/sd/live.m3u8
 吉林卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
 吉林卫视,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/jilin_2_hd.m3u8
 吉林卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=025&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
