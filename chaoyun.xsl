@@ -28,7 +28,6 @@
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
 ﻿潮云-香港
-TVB J2,https://hlslive.qyvideo.net/live/5efaabaa7e884f0baefb45424807f925/index.m3u8
 TVB J2,http://bf.ygsaeq.cn/10088/j2tv.m3u8?auth_key=1581268666-0-0-dde1ff48abfe26aa3d3e0f9ca7164cd5
 TVB J2,http://h.ygsaeq.cn/atv/01kjzcom.m3u8
 TVB J2,http://59.37.87.116/qq133065988/hkj2__redirect__1392.m3u8
@@ -351,7 +350,6 @@ CCTV怀旧剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 
 ﻿潮云-香港
-TVB翡翠台,http://hlslive.qyvideo.net/live/92e15347c4cb44d2a7965c0b71d5c1a0/index.m3u8
 TVB翡翠台,http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -360,7 +358,6 @@ TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_finance
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
-TVB無綫新聞,https://hlslive.qyvideo.net/live/5112adbfe8824b049a28ba0aaeca9484/index.m3u8
 TVB無綫新聞,http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
