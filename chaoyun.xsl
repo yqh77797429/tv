@@ -550,9 +550,7 @@ HBO Signature,http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc
 HBO Family,http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
 FOX电影,http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
 FOX电影,http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
-FOX电影,http://61.216.10.122:4015/VideoInput/play.ts
 FOX家庭电影,http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
-Disney Channel Asia,http://61.216.10.122:4019/VideoInput/play.ts
 好莱坞电影,http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
 影迷电影,http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
 Catchplay电影,http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.flv
