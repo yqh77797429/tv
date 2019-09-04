@@ -43,8 +43,8 @@ TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 鳳凰中文,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 鳳凰資訊,http://t1.leys8.com/tv/hlyy.html?addr=http://m.9178.tv/tv/fhzx/
-鳳凰資訊,http://124.232.231.247:6610/000000001001/201500000231/index.m3u8?
-鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+鳳凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 鳳凰資訊,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 广东体育,http://125.88.57.21:30001/PLTV/88888905/224/3221227521/1.m3u8
@@ -484,7 +484,7 @@ TVBS精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.f
 一電影,http://cloud-play.hhalloy.com/live/eb53b692ccbe8c836bc20be6734a9555.flv
 緯來電影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 緯來體育,http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
-緯来育樂,http://cloud-play.hhalloy.com/live/5cd65f73313b022253084c489a6705c8.flv
+緯來育樂,http://cloud-play.hhalloy.com/live/5cd65f73313b022253084c489a6705c8.flv
 緯來育樂,http://60.250.69.26:8080/live/vlhappy8976.m3u8
 緯來戲劇,http://cloud-play.hhalloy.com/live/82605f105052ccaef7bb5d55ebc1341d.flv
 緯來日本,http://cloud-play.hhalloy.com/live/8bb9e07d9ed0c8bccd750b0f15206b73.flv
