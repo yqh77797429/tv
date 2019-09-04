@@ -29,11 +29,12 @@
 揭阳综合,http://livejiey.chinamcache.com/jydst/jyzb1.m3u8?auth_key=1605331167-0-0-5ee14abc27bda7397986918638260da6
 揭阳公共,http://livejiey.chinamcache.com/jydst/jyzb2.m3u8?auth_key=1605331219-0-0-2cb660a7150d91e00f6d0bdf3f28e03d
 
-﻿潮云-香港
-TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
-TVB J2,http://h.ygsaeq.cn/atv/01kjzcom.m3u8
-TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
+﻿潮云-香港-常用
 TVB J2,http://b.jahddci.top/79789/j2tv.m3u8?auth_key=1601855650-0-0-d2ab0ce796c9a95d1bf6d59d6cf551d0
+TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
+TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.m3u8
+TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
+TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
 TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
