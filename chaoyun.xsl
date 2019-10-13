@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-更新台湾频道,
+更新汕头频道,
 汕头综合,http://www.zgrqq.top/gudou.m3u8?id=shantouyitaogaoqing_4500
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
