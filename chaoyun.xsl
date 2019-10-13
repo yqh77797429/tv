@@ -1,7 +1,6 @@
 ﻿潮云-潮汕
 更新汕头频道,
 汕头综合,http://www.zgrqq.top/gudou.m3u8?id=shantouyitaogaoqing_4500
-汕头综合,http://27.36.62.161:8060/live/shantouyitaogaoqing_4500.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
@@ -11,7 +10,6 @@
 汕头综合,rtsp://183.59.207.244:554/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
 汕头综合,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
 汕头生活,http://www.zgrqq.top/gudou.m3u8?id=shantouertaogaoqing_4500
-汕头生活,http://27.36.62.161:8060/live/shantouertaogaoqing_4500.m3u8
 汕头生活,rtsp://183.59.134.165:554/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?zoneoffset=480&icpid=szmg&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EnMNmD7LrkrPoXUi3i25Vkg%7Euoc3YN3AJBwE0Vj955M-x5Hpdh8VvhpQ5K3idtrHB6o02y0OfEhHEnYK90tqVSlGa7azfN_QyDjDoyPZw0bozN1qjnqenXDXX9E6UQLhkZw~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20190820220257%2C19090851%2C59.40.82.255%2C20190820220257%2C31000100000000050000000000334267%2C1909085120190820220257%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=258&hms_devid=56604&online=156
 汕头生活,http://www.szmgiptv.com:14436/hls/18.m3u8
 汕头生活,rtsp://125.88.53.18/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil
@@ -21,7 +19,6 @@
 汕头生活,rtsp://183.59.207.244:554/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil
 汕头生活,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil
 汕头影视,http://www.zgrqq.top/gudou.m3u8?id=shantousantaogaoqing_4500
-汕头影视,http://27.36.62.161:8060/live/shantousantaogaoqing_4500.m3u8
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
