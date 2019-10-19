@@ -34,8 +34,7 @@
 
 ﻿潮云-香港-常用
 TVB J2,http://b.jahddci.top/79789/j2tv.m3u8?auth_key=1601855650-0-0-d2ab0ce796c9a95d1bf6d59d6cf551d0
-TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
-TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.m3u8
+TVB J2,http://jwpull.jd.com/live/b7213900bd6b4bf8969f91dce48c1d7b.flv
 TVB J2,http://59.37.87.116/atv/01kjzcom.m3u8
 TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
