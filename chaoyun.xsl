@@ -34,7 +34,7 @@
 
 ﻿潮云-香港-常用
 TVB J2,http://b.jahddci.top/79789/j2tv.m3u8?auth_key=1601855650-0-0-d2ab0ce796c9a95d1bf6d59d6cf551d0
-TVB J2,http://jwpull.jd.com/live/b7213900bd6b4bf8969f91dce48c1d7b.flv
+TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,https://r05.wscdn.hls.xiaoka.tv/live/c1472077d4a8f3d22caa1af8a273b91c/playlist.m3u8
 TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
@@ -381,7 +381,6 @@ TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobi
 TVB明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB星河台,http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 TVB星河台,http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
 TVB功夫台,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
