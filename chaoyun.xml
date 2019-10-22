@@ -499,9 +499,9 @@ TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_finance
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
-TVB無綫新聞,http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
-TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
+TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1571753940~exp=1571840340~acl=/newslive/smil:mobile_inews.smil/*~hmac=129bc07786066aaff778a891191c194c3df622ff4c8e9d99c46bb108c20beb35
+TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1571753940~exp=1571840340~acl=/newslive/smil:mobile_inews.smil/*~hmac=129bc07786066aaff778a891191c194c3df622ff4c8e9d99c46bb108c20beb35
+TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
 TVB明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -524,6 +524,7 @@ TVB功夫台,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 新影视,http://dlhls.live.cnlive.com:1935/cdn/xinyingshi/chunklist_w648453147.m3u8
 有線18台,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
+有線電視603台,http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 MTV,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
@@ -551,12 +552,14 @@ NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 
 ﻿潮云-台湾
 台視,http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
+台視,http://pili-live-hdl.qhmywl.com/dsdtv/bec346d29d4c665d04db41d28a4e033f.m3u8
 台視綜合,http://cloud-play.hhalloy.com/live/a8905b7e88b656b83c0f5d8bf5771430.flv
 台視財經,http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
 民視,http://60.251.37.44:8080/live/super7659.m3u8
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 華視,http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
 中視,http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
+中視新聞,http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
 中視經典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 公視,http://cloud-play.hhalloy.com/live/0be9e52678b937320897033d90bb268a.flv
 公視2,http://cloud-play.hhalloy.com/live/236c80ba515e5bf302f3db6f4d009914.flv
@@ -572,7 +575,8 @@ TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
 TVBS歡樂,http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flv
 TVBS精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flv
-寰宇新聞,http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
+寰宇新聞,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8
+寰宇新聞2,http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
 寰宇綜合,http://cloud-play.hhalloy.com/live/82b78befe54a601876654e1db3e3741a.flv
 寰宇財經,http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flv
 靖洋戲劇,http://cloud-play.hhalloy.com/live/9294d73fcb67f80e094f8ce6be17c12d.flv
@@ -585,14 +589,18 @@ TVBS精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.f
 靖天日本,http://cloud-play.hhalloy.com/live/031b3e399e9530310abc135a0b19a8ac.flv
 靖天映畫,http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
 靖天電影,http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
+东森新聞,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
 东森超視,http://cloud-play.hhalloy.com/live/47d46d26bba55dd674454ad46c569ffa.flv
 东森綜合,http://cloud-play.hhalloy.com/live/7485194388c0ca1d43a664701afb2ff2.flv
+东森財經新聞,http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8
 东森電影,http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
 东森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
 东森戲劇,http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.flv
 中天娛樂,http://cloud-play.hhalloy.com/live/25ea449d554a16ec584e82d039065e5f.flv
 中天綜合,http://cloud-play.hhalloy.com/live/64ce4daa355bd6784904e72fabb7fa3e.flv
 中天綜合,http://60.250.69.26:8080/live/cti9785.m3u8
+中天新聞,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.m3u8
+非凡新聞,http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
 八大綜合,http://cloud-play.hhalloy.com/live/a26d25ad9eaabca42fa6d526199d61e5.flv
 八大綜合,http://60.251.37.44:8080/live/gtv7659.m3u8
 八大第一,http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.flv
