@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-更新汕头频道,
+修复CCTV频道,
 汕头综合,http://www.zgrqq.top/gudou.m3u8?id=shantouyitaogaoqing_4500
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
@@ -28,7 +28,7 @@
 ﻿潮云-香港-常用
 TVB J2,http://b.jahddci.top/79789/j2tv.m3u8?auth_key=1601855650-0-0-d2ab0ce796c9a95d1bf6d59d6cf551d0
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
-TVB J2,http://107.148.215.110:13164/play.m3u8?token=gVLtYoI91074qygU6ivwgGNx&tid=gt&id=12
+TVB J2,https://r05.wscdn.hls.xiaoka.tv/live/af8a272c3b91cc1a8f3d2a144a72077db1/playlist.m3u8
 TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
 TVB J2,rtmp://59.37.87.116/atv/01kjzcom
@@ -43,10 +43,9 @@ TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 鳳凰資訊,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+广东体育,http://cdn12.switchium.com/gdty.m3u8
 广东体育,http://125.88.57.21:30001/PLTV/88888905/224/3221227521/1.m3u8
 广东体育,http://125.88.55.18:30001/PLTV/88888956/224/3221227703/1.m3u8
-广东体育,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227521/1.m3u8
-广东体育,http://125.88.82.39:30001/PLTV/88888905/224/3221227521/1.m3u8
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
@@ -61,6 +60,7 @@ CCTV-1综合,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2_hd/index.m3u8
 CCTV-1综合,http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=029&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-2财经,http://125.88.55.18:30001/PLTV/88888956/224/3221227666/1.m3u8
+CCTV-2财经,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000196.m3u8
 CCTV-2财经,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
 CCTV-2财经,http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
 CCTV-2财经,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=010&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -110,9 +110,11 @@ CCTV-8电视剧,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 CCTV-8电视剧,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=032&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
 CCTV-9纪实,http://125.88.57.21:30001/PLTV/88888956/224/3221227669/1.m3u8
+CCTV-9纪实,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000143.m3u8
 CCTV-9纪实,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv9_2/index.m3u8
 CCTV-9纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=033&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-10科教,http://125.88.57.21:30001/PLTV/88888956/224/3221227698/1.m3u8
+CCTV-10科教,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000170.m3u8
 CCTV-10科教,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv10_2_hd/index.m3u8
 CCTV-10科教,http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
 CCTV-10科教,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=004&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -121,6 +123,7 @@ CCTV-11戏曲,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2_hd/index.m3u
 CCTV-11戏曲,http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
 CCTV-11戏曲,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=104&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-12社会与法,http://125.88.57.21:30001/PLTV/88888956/224/3221227724/1.m3u8
+CCTV-12社会与法,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000171.m3u8
 CCTV-12社会与法,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv12_2_hd/index.m3u8
 CCTV-12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
 CCTV-12社会与法,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -133,6 +136,7 @@ CCTV-13新闻,http://www.cycatv.cn/public/WXTV03/playlist.m3u8
 CCTV-13新闻,http://klmyyun.chinavas.com/hls/qishi2.m3u8
 CCTV-13新闻,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-14少儿,http://125.88.57.21:30001/PLTV/88888956/224/3221227675/1.m3u8
+CCTV-14少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000172.m3u8
 CCTV-14少儿,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv14_2/index.m3u8
 CCTV-14少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=035&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-15音乐,http://125.88.57.21:30001/PLTV/88888956/224/3221227727/1.m3u8
@@ -140,7 +144,7 @@ CCTV-15音乐,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
 CCTV-15音乐,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv15_2_hd/index.m3u8
 CCTV-15音乐,http://www.cycatv.cn/public/WXTV08/playlist.m3u8
 CCTV-15音乐,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=134&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-17农业农村,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv17_2_hd/index.m3u8
+CCTV-17农业农村,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000169.m3u8
 CCTV-17农业农村,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv17_2/index.m3u8
 CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
 CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
@@ -369,10 +373,9 @@ TVB翡翠台,http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
+TVB無綫新聞,https://r05.wscdn.hls.xiaoka.tv/live/cde6dacb3a8bfdab46ec12b11686ab1/playlist.m3u8
 TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1571753940~exp=1571840340~acl=/newslive/smil:mobile_inews.smil/*~hmac=129bc07786066aaff778a891191c194c3df622ff4c8e9d99c46bb108c20beb35
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
