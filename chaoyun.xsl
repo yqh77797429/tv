@@ -392,13 +392,10 @@ ViuTV,https://r05.wscdn.hls.xiaoka.tv/live/ab9c7176dca41a1495a37aa8cfe914bcb1/pl
 衛視電影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 衛視洋片,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
 星衛電影,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
-星衛電影,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 星衛娛樂,http://cloud-play.hhalloy.com/live/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
-星空衛視,http://222.207.48.30/hls/startv.m3u8
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-新影视,http://dlhls.live.cnlive.com:1935/cdn/xinyingshi/chunklist_w648453147.m3u8
 有線18台,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
 有線電視603台,http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
@@ -406,7 +403,6 @@ MTV,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 HK開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8?wowzasessionid=64000
 
