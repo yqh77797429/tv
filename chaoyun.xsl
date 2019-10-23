@@ -102,11 +102,10 @@ CCTV-7国防军事,http://125.88.57.21:30001/PLTV/88888956/224/3221227695/1.m3u8
 CCTV-7国防军事,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv7_2_hd/index.m3u8
 CCTV-7国防军事,http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
 CCTV-7国防军事,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=028&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-8电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+CCTV-8电视剧,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000137.m3u8
+CCTV-8电视剧,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02EF5U3190604BKB30C6E1CI21801A74P8M340BF6EV0Z334B7W15D040BBBB6F55F0&playtoken=ABCDEFGHI&auth=no&programid=4200000090.m3u8
 CCTV-8电视剧,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2_hd/index.m3u8
 CCTV-8电视剧,http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-CCTV-8电视剧,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-CCTV-8电视剧,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 CCTV-8电视剧,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=032&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
 CCTV-9纪实,http://125.88.57.21:30001/PLTV/88888956/224/3221227669/1.m3u8
