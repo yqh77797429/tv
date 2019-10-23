@@ -44,11 +44,11 @@ TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 鳳凰資訊,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 广东体育,http://cdn12.switchium.com/gdty.m3u8
-广东体育,http://125.88.57.21:30001/PLTV/88888905/224/3221227521/1.m3u8
-广东体育,http://125.88.55.18:30001/PLTV/88888956/224/3221227703/1.m3u8
-广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
+广东体育,http://125.88.57.21:30001/PLTV/88888905/224/3221227521/1.m3u8
+广东体育,http://125.88.55.18:30001/PLTV/88888956/224/3221227703/1.m3u8
 
 ﻿潮云-CCTV
 CCTV-1综合,http://125.88.57.21:30001/PLTV/88888905/224/3221227518/1.m3u8
