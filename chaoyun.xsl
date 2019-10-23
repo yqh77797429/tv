@@ -64,7 +64,7 @@ CCTV-2财经,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=
 CCTV-2财经,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
 CCTV-2财经,http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
 CCTV-2财经,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=010&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-3综艺,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000135.m3u8
+CCTV-3综艺,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000134.m3u8
 CCTV-3综艺,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02EF5U3190604BKB30C6E1CI21801A74P8M340BF6EV0Z334B7W15D040BBBB6F55F0&playtoken=ABCDEFGHI&auth=no&rate=sd&programid=4200000085.m3u8
 CCTV-3综艺,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000197.m3u8
 CCTV-3综艺,http://sdlqx.chinashadt.com:2036/live/CCTV3.stream/playlist.m3u8
@@ -78,7 +78,7 @@ CCTV-4中文国际,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&
 CCTV-4中文国际,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv4_2_hd/index.m3u8
 CCTV-4中文国际,http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
 CCTV-4中文国际,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=026&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-5体育,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000136.m3u8
+CCTV-5体育,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000135.m3u8
 CCTV-5体育,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02EF5U3190604BKB30C6E1CI21801A74P8M340BF6EV0Z334B7W15D040BBBB6F55F0&playtoken=ABCDEFGHI&auth=no&rate=sd&programid=4200000086.m3u8
 CCTV-5体育,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000198.m3u8
 CCTV-5体育,http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8
