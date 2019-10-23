@@ -406,9 +406,6 @@ MTV,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 HK開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-NOW直播,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=202&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-NOW直播,http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
-NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8?wowzasessionid=64000
