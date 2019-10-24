@@ -126,6 +126,8 @@ CCTV-12社会与法,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&pr
 CCTV-12社会与法,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv12_2_hd/index.m3u8
 CCTV-12社会与法,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
 CCTV-12社会与法,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-13新闻,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB174B2U30966010K776CECF1I21801A74PBM32250AEV1044EZ33519WE4BE3DE6921&playtoken=ABCDEFGHI&programid=4200000022.m3u8
+CCTV-13新闻,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB1747BU3191B04BKB30DB1A5I21801A74P8M30E4B28V0Z334B7W15D08C8670E711EA&playtoken=ABCDEFGHI&auth=no&programid=4200000004.m3u8
 CCTV-13新闻,http://125.88.57.21:30001/PLTV/88888956/224/3221227701/1.m3u8
 CCTV-13新闻,http://hbhl.chinashadt.com:2036/live/10005.stream_360p/playlist.m3u8
 CCTV-13新闻,http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
@@ -138,11 +140,14 @@ CCTV-14少儿,http://125.88.57.21:30001/PLTV/88888956/224/3221227675/1.m3u8
 CCTV-14少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000172.m3u8
 CCTV-14少儿,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv14_2/index.m3u8
 CCTV-14少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=035&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-15音乐,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB174B2U30966010K776CECF1I21801A74PBM32250AEV1044EZ33519WE4BE3DE6921&playtoken=ABCDEFGHI&programid=4200000325.m3u8
+CCTV-15音乐,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB1747BU3191B04BKB30DB1A5I21801A74P8M30E4B28V0Z334B7W15D08C8670E711EA&playtoken=ABCDEFGHI&auth=no&programid=4200000496.m3u8
 CCTV-15音乐,http://125.88.57.21:30001/PLTV/88888956/224/3221227727/1.m3u8
 CCTV-15音乐,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
 CCTV-15音乐,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv15_2_hd/index.m3u8
 CCTV-15音乐,http://www.cycatv.cn/public/WXTV08/playlist.m3u8
 CCTV-15音乐,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=134&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-17农业农村,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB1747BU3191B04BKB30DB1A5I21801A74P8M30E4B28V0Z334B7W15D08C8670E711EA&playtoken=ABCDEFGHI&auth=no&programid=4200000494.m3u8
 CCTV-17农业农村,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000169.m3u8
 CCTV-17农业农村,http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv17_2/index.m3u8
 CCTV-17农业农村,http://cctvcnch5c.v.wscdns.com/live/cctv17_2/index.m3u8
