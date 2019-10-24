@@ -2,6 +2,7 @@
 修复CCTV频道,
 汕头综合,http://www.zgrqq.top/gudou.m3u8?id=shantouyitaogaoqing_4500
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
+汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
 汕头综合,rtsp://125.88.53.18/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=jGwLqab1gtct2pQgXKRVSmidiw9RbLKgnSfTOHxvPRp6ZT3jzPfnYEKur6/gfqUNzFcD/gEk+7wBXWZB+YhCXlLDxgMztEjin4r2D/b5pdCdE4ZC8umEfX3ddygAG1vEQ9rGJ3BqS3B9WYeo72TI6A==:20191001232735,075440309106,10.161.128.118,20191001232735,02000001000000050000000000000375,54EFE0609712C6D8993DEA3DF74ADFF3,-1,0,1,,,2,,,,2,END
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
@@ -10,8 +11,10 @@
 汕头综合,rtsp://183.59.207.244:554/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
 汕头综合,rtsp://125.88.104.45:554/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
 汕头生活,http://www.zgrqq.top/gudou.m3u8?id=shantouertaogaoqing_4500
+汕头生活,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv2
 汕头生活,http://www.szmgiptv.com:14436/hls/18.m3u8
 汕头影视,http://www.zgrqq.top/gudou.m3u8?id=shantousantaogaoqing_4500
+汕头影视,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv3
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
