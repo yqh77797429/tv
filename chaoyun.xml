@@ -25,7 +25,6 @@
 ﻿潮云-香港-常用
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=QF0AAM9lSsFcgdAV&secondToken=secondToken%3AEJC_dQOTDY7XV6WYbMbUrTt1K3k&streamid=dsdtv%3Adsdtv%2F9de1ac6a9a4642e1aac41462c6159b92&v3=1
-TVB J2,https://r05.wscdn.hls.xiaoka.tv/live/af8a272c3b91cc1a8f3d2a144a72077db1a/playlist.m3u8
 TVB J2,http://b.jahddci.top/79789/j2tv.m3u8?auth_key=1601855650-0-0-d2ab0ce796c9a95d1bf6d59d6cf551d0
 TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
@@ -175,8 +174,6 @@ CCTV-14少儿,http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/322122720
 CCTV-14少儿,http://112.17.40.140/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-14少儿,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225600/index.m3u8
-CCTV-15音乐,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB174B2U30966010K776CECF1I21801A74PBM32250AEV1044EZ33519WE4BE3DE6921&playtoken=ABCDEFGHI&programid=4200000325.m3u8
-CCTV-15音乐,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB1747BU3191B04BKB30DB1A5I21801A74P8M30E4B28V0Z334B7W15D08C8670E711EA&playtoken=ABCDEFGHI&auth=no&programid=4200000496.m3u8
 CCTV-15音乐,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
 CCTV-15音乐,http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
@@ -185,8 +182,6 @@ CCTV-15音乐,http://112.50.243.7/PLTV/88888888/224/3221226550/index.m3u8
 CCTV-15音乐,http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
 CCTV-15音乐,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 CCTV-NEWS,http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-CCTV-17农业农村,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB1747BU3191B04BKB30DB1A5I21801A74P8M30E4B28V0Z334B7W15D08C8670E711EA&playtoken=ABCDEFGHI&auth=no&programid=4200000494.m3u8
-CCTV-17农业农村,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000169.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 
 ﻿潮云-卫视
@@ -478,7 +473,6 @@ TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
-TVB無綫新聞,https://r05.wscdn.hls.xiaoka.tv/live/cde6dacb3a8bfdab46ec12b11686ab1a/playlist.m3u8
 TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1571753940~exp=1571840340~acl=/newslive/smil:mobile_inews.smil/*~hmac=129bc07786066aaff778a891191c194c3df622ff4c8e9d99c46bb108c20beb35
 TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
@@ -487,7 +481,6 @@ TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ct
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB星河台,http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
 TVB功夫台,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
-ViuTV,https://r05.wscdn.hls.xiaoka.tv/live/ab9c7176dca41a1495a37aa8cfe914bcb1a/playlist.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 鳳凰電影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
