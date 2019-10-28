@@ -76,7 +76,6 @@ CCTV-5体育,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol
 CCTV-5体育,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000198.m3u8
 CCTV-5体育,http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8
 CCTV-5体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=031&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-5+体育赛事,http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB41FCCU3192704BKB30FCD62I279F5E7DP8M340BC2DV0Z334B7W15D12B9F45CEFFD5&playtoken=ABCDEFGHI&auth=no&programid=4200000087.m3u8
 CCTV-5+体育赛事,http://125.88.57.21:30001/PLTV/88888905/224/3221227505/1.m3u8
 CCTV-5+体育赛事,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227505/1.m3u8
 CCTV-5+体育赛事,http://125.88.82.39:30001/PLTV/88888905/224/3221227505/1.m3u8
