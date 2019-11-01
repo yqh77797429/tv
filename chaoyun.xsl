@@ -2,15 +2,18 @@
 修复汕头频道,
 汕头综合,http://185.239.226.6:5178/gdyx.php?id=shantouyitaogaoqing_4500
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
+汕头综合,rtsp://125.88.53.18/PLTV/88888905/224/3221227221/10000100000000060000000000789851_0.smil?icpid=88888888
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
 汕头生活,http://185.239.226.6:5178/gdyx.php?id=shantouertaogaoqing_4500
 汕头生活,rtsp://183.58.12.204/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
+汕头生活,rtsp://125.88.53.18/PLTV/88888905/224/3221227088/10000100000000060000000000699672_0.smil?icpid=88888888
 汕头生活,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv2
 汕头生活,http://www.szmgiptv.com:14436/hls/18.m3u8
 汕头影视,http://185.239.226.6:5178/gdyx.php?id=shantousantaogaoqing_4500
 汕头影视,rtsp://183.58.12.204/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?icpid=88888888
+汕头影视,rtsp://125.88.53.18/PLTV/88888905/224/3221227085/10000100000000060000000000599663_0.smil?icpid=88888888
 汕头影视,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv3
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
@@ -42,7 +45,7 @@ TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 鳳凰資訊,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-广东体育,http://cdn12.switchium.com/gdty.m3u8
+广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?icpid=88888888
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
