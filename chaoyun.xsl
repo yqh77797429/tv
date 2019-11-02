@@ -61,8 +61,7 @@ CCTV-1综合,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=029&FvSeid=1&Fsv_c
 CCTV-2财经,http://125.88.57.21:30001/PLTV/88888956/224/3221227666/1.m3u8
 CCTV-2财经,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000196.m3u8
 CCTV-2财经,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=010&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-3综艺,rtsp://183.58.12.204/PLTV/88888905/224/3221227046/10000100000000060000000000657994_0.smil?icpid=88888888
-CCTV-3综艺,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000134.m3u8
+CCTV-3综艺,rtsp://183.58.12.204/PLTV/88888905/224/3221229838/10000100000000060000000009924454_0.smil?icpid=88888888
 CCTV-3综艺,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000197.m3u8
 CCTV-3综艺,http://sdlqx.chinashadt.com:2036/live/CCTV3.stream/playlist.m3u8
 CCTV-3综艺,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=021&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
@@ -70,8 +69,7 @@ CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 CCTV-4中文国际,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000315.m3u8
 CCTV-4中文国际,http://125.88.57.21:30001/PLTV/88888956/224/3221227721/1.m3u8
 CCTV-4中文国际,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=026&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-5体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227038/10000100000000060000000000657995_0.smil?icpid=88888888
-CCTV-5体育,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000135.m3u8
+CCTV-5体育,rtsp://183.58.12.204/PLTV/88888905/224/3221229805/10000100000000060000000009924448_0.smil?icpid=88888888
 CCTV-5体育,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000198.m3u8
 CCTV-5体育,http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8
 CCTV-5体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=031&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -79,15 +77,14 @@ CCTV-5+体育赛事,http://125.88.57.21:30001/PLTV/88888905/224/3221227505/1.m3u
 CCTV-5+体育赛事,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227505/1.m3u8
 CCTV-5+体育赛事,http://125.88.82.39:30001/PLTV/88888905/224/3221227505/1.m3u8
 CCTV-5+体育赛事,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=036&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-6电影,rtsp://183.58.12.204/PLTV/88888905/224/3221226991/10000100000000060000000000657996_0.smil?icpid=88888888
-CCTV-6电影,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB02FCDU30992010K776CCF2EI21801A74PBM32250AEV1044EZ33519WE4BB24B37D1&playtoken=ABCDEFGHI&programid=4200000136.m3u8
+CCTV-6电影,rtsp://183.58.12.204/PLTV/88888905/224/3221229898/10000100000000060000000009924445_0.smil?icpid=88888888
 CCTV-6电影,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000199.m3u8
 CCTV-6电影,http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
 CCTV-6电影,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=011&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 CCTV-7国防军事,http://125.88.57.21:30001/PLTV/88888956/224/3221227695/1.m3u8
 CCTV-7国防军事,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=028&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-8电视剧,rtsp://183.58.12.204/PLTV/88888905/224/3221227041/10000100000000060000000000657998_0.smil?icpid=88888888
+CCTV-8电视剧,rtsp://183.58.12.204/PLTV/88888905/224/3221229900/10000100000000060000000009924385_0.smil?icpid=88888888
 CCTV-8电视剧,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DBC210EU309A6010K776DDC68I3F801A74PBM3226877V1044EZ33519WE4D84CB32E1&playtoken=ABCDEFGHI&programid=4200000137.m3u8
 CCTV-8电视剧,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=032&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
@@ -142,7 +139,7 @@ CCTV-NEWS,http://125.88.55.18:30001/PLTV/88888956/224/3221227704/1.m3u8
 东方卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227520/1.m3u8
 东方卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=022&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pconte
-安徽卫视,rtsp://183.58.12.204/PLTV/88888905/224/88888905/224/3221227154/10000100000000060000000000937801_0.smil?icpid=88888888
+安徽卫视,rtsp://183.58.12.204/PLTV/88888905/224/3221227156/10000100000000060000000000966355_0.smil?icpid=88888888
 安徽卫视,http://118.123.60.84:8006/syhjcms_hls/10000100201705020000001000000001
 安徽卫视,http://118.123.60.17:8112/syhjcms_hls/10000100201705020000001000000001
 安徽卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
