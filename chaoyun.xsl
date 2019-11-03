@@ -305,9 +305,6 @@ TVB功夫台,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717
 鳳凰電影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 美亞電影,http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
-衛視中文,http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
-衛視電影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
-衛視洋片,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
 星衛電影,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
 星衛娛樂,http://cloud-play.hhalloy.com/live/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
@@ -389,6 +386,9 @@ TVBS精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.f
 八大第一,http://60.251.37.44:8080/live/gtvfirst7659.m3u8
 八大戲劇,http://cloud-play.hhalloy.com/live/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
 八大娛樂,http://cloud-play.hhalloy.com/live/31c5b2c0fa7ac37b2e1447befb076d08.flv
+衛視中文,http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
+衛視電影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+衛視洋片,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
 龍華電影,http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龍華經典,http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
 龍華洋片,http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
