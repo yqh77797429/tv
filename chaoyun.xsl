@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-修复汕头频道,
+修复TVB频道,
 汕头综合,http://185.239.226.6:5178/gdyx.php?id=shantouyitaogaoqing_4500
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
