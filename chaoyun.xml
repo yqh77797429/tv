@@ -510,8 +510,18 @@ HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳亞衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 澳門衛視,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳門衛視,http://live.mastvnet.com/iVx460D/500/live.m3u8
+澳門資訊,http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+澳門資訊,rtmp://live4.tdm.com.mo:80/ch5/info_ch5.live
+澳視澳門,http://live4.tdm.com.mo/ch1/definst//ch1.live/playlist.m3u8
+澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
+澳視高清,rtmp://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live
+澳門澳視衛視,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳門澳視衛視,http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
+澳門澳視衛視,rtmp://live4.tdm.com.mo:80/ch3/_definst_/ch3.live
 澳門蓮花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 澳門葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳門葡文,rtmp://live4.tdm.com.mo:80/ch2/_definst_/ch2.live
+澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
 ﻿潮云-台湾
 台視,http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
