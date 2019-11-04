@@ -38,6 +38,7 @@ TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8
 鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813
@@ -329,6 +330,7 @@ HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳視高清,rtmp://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live
 澳門澳視衛視,rtmp://live4.tdm.com.mo:80/ch3/_definst_/ch3.live
 澳門蓮花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+澳門葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳門葡文,rtmp://live4.tdm.com.mo:80/ch2/_definst_/ch2.live
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
