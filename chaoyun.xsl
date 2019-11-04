@@ -26,9 +26,9 @@
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
 
 ﻿潮云-香港-常用
+TVB J2,http://cczylive.chuangwanghulian.cn/live/zy_1525938302893.flv?auth_key=1593500120-55358871-0-e69d595da9fb1e475a661f81e91ec0a9
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=QF0AAM9lSsFcgdAV&secondToken=secondToken%3AEJC_dQOTDY7XV6WYbMbUrTt1K3k&streamid=dsdtv%3Adsdtv%2F9de1ac6a9a4642e1aac41462c6159b92&v3=1
-TVB J2,http://cczylive.chuangwanghulian.cn/live/zy_1525938302893.flv?auth_key=1593500120-55358871-0-e69d595da9fb1e475a661f81e91ec0a9
 TVB J2,http://b.jahddci.top/79789/j2tv.m3u8?auth_key=1601855650-0-0-d2ab0ce796c9a95d1bf6d59d6cf551d0
 TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
@@ -38,7 +38,6 @@ TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
 鳳凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/index.m3u8
 鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8
 鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813
@@ -289,13 +288,8 @@ TVB翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a
 TVB翡翠台,http://cczylive.chuangwanghulian.cn/live/zy_1487739335286.flv?auth_key=1593353626-44114109-0-0f24981aabb881e9a542570052db8798
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
-TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
 TVB無綫新聞,http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
 TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1571753940~exp=1571840340~acl=/newslive/smil:mobile_inews.smil/*~hmac=129bc07786066aaff778a891191c194c3df622ff4c8e9d99c46bb108c20beb35
-TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
 TVB明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -311,11 +305,12 @@ TVB功夫台,http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-有線18台,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
-有線電視603台,http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8
-RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
-MTV,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有線電視18台,http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
+有線電視603台,http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8
+MTV,http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
+RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+RHK-32電視台,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 HK開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
